@@ -47,7 +47,15 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 ---
 
 ### Curso de Word:
-[![Video Destacado](https://img.youtube.com/vi/uINpZXotQIw/hqdefault.jpg)](https://www.youtube.com/watch?v=uINpZXotQIw)
+
+| [![ Introducción a Word](https://img.youtube.com/vi/uINpZXotQIw/hqdefault.jpg)](https://www.youtube.com/watch?v=uINpZXotQIw) | [![Explorando Word: Herramientas, Estilos y Plantillas](https://img.youtube.com/vi/0Pl8Qka_jTk/hqdefault.jpg)](https://www.youtube.com/watch?v=0Pl8Qka_jTk) | [![Trabajando con la pestaña "Insertar" en Word](https://img.youtube.com/vi/sk-f2-tZXVM/hqdefault.jpg)](https://www.youtube.com/watch?v=sk-f2-tZXVM) |
+|:---:|:---:|:---:|
+| **Introducción a Word** | **Explorando Word: Herramientas, Estilos y Plantillas** | **Trabajando con la pestaña "Insertar" en Word** |
+
+| [![¡Haz magia con texto y símbolos en Word!](https://img.youtube.com/vi/utr4SaP7qYI/hqdefault.jpg)](https://www.youtube.com/watch?v=utr4SaP7qYI) | 
+|:---:|
+| **¡Haz magia con texto y símbolos en Word!** |
+
 
 
 ¡Gracias por tu apoyo! 🎉
