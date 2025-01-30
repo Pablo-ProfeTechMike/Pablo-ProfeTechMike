@@ -56,5 +56,7 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **¡Haz magia con texto y símbolos en Word!** |**Descubre la Pestaña Dibujar y Todas las Herramientas de Word** |**Explorando la Pestaña Diseño: ¡Herramientas que Transforman tus Ideas!** |
 
-
+| [![Todo sobre la pestaña Disposición en Word 📑](https://img.youtube.com/vi/3IRHMbUh0zg/hqdefault.jpg)](https://www.youtube.com/watch?v=3IRHMbUh0zg) |
+|:---:|
+| **Todo sobre la pestaña Disposición en Word 📑** |
 ¡Gracias por tu apoyo! 🎉
