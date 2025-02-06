@@ -56,9 +56,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **¡Haz magia con texto y símbolos en Word!** |**Descubre la Pestaña Dibujar y Todas las Herramientas de Word** |**Explorando la Pestaña Diseño: ¡Herramientas que Transforman tus Ideas!** |
 
-| [![Todo sobre la pestaña Disposición en Word 📑](https://img.youtube.com/vi/3IRHMbUh0zg/hqdefault.jpg)](https://www.youtube.com/watch?v=3IRHMbUh0zg) | [![ Explorando la pestaña de Referencia y sus herramientas en Word](https://img.youtube.com/vi/r6tGAQVQvHM/hqdefault.jpg)](https://www.youtube.com/watch?v=r6tGAQVQvHM) |
-|:---:|:---:|
-| **Todo sobre la pestaña Disposición en Word 📑** |**Explorando la pestaña de Referencia y sus herramientas en Word** |
+| [![Todo sobre la pestaña Disposición en Word 📑](https://img.youtube.com/vi/3IRHMbUh0zg/hqdefault.jpg)](https://www.youtube.com/watch?v=3IRHMbUh0zg) | [![ Explorando la pestaña de Referencia y sus herramientas en Word](https://img.youtube.com/vi/r6tGAQVQvHM/hqdefault.jpg)](https://www.youtube.com/watch?v=r6tGAQVQvHM) |  [![Explorando la pestaña Revisar y sus herramientas en Word](https://img.youtube.com/vi/DflNEcIOIbI/hqdefault.jpg)](https://www.youtube.com/watch?v=DflNEcIOIbI) |
+|:---:|:---:|:---:|
+| **Todo sobre la pestaña Disposición en Word 📑** |**Explorando la pestaña de Referencia y sus herramientas en Word** |**Explorando la pestaña Revisar y sus herramientas en Word** |
 
 
 ¡Gracias por tu apoyo! 🎉
