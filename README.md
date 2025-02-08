@@ -60,5 +60,8 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Todo sobre la pestaña Disposición en Word 📑** |**Explorando la pestaña de Referencia y sus herramientas en Word** |**Explorando la pestaña Revisar y sus herramientas en Word** |
 
+| [![Explorando la pestaña Vista y sus herramientas. ¿Qué secretos descubriremos hoy? 👀✨](https://img.youtube.com/vi/z0TyB3oT8To/hqdefault.jpg)](https://www.youtube.com/watch?v=z0TyB3oT8To) |
+|:---:|
+| **Explorando la pestaña Vista y sus herramientas. ¿Qué secretos descubriremos hoy? 👀✨** |
 
 ¡Gracias por tu apoyo! 🎉
