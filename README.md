@@ -64,4 +64,11 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|
 | **Explorando la pestaña Vista y sus herramientas. ¿Qué secretos descubriremos hoy? 👀✨** |
 
+---
+
+| [![ Podcast: Evaluación vs. Calificación + Problema de Experiencia Laboral](https://img.youtube.com/vi/fVyXsZCd7do/hqdefault.jpg)](https://www.youtube.com/watch?v=fVyXsZCd7do) |
+|:---:|
+| **Podcast: Evaluación vs. Calificación + Problema de Experiencia Laboral** |
+
+
 ¡Gracias por tu apoyo! 🎉
