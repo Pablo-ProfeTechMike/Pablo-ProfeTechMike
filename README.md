@@ -66,9 +66,19 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 
 ---
 
+### Podcast:
+
 | [![ Podcast: Evaluación vs. Calificación + Problema de Experiencia Laboral](https://img.youtube.com/vi/fVyXsZCd7do/hqdefault.jpg)](https://www.youtube.com/watch?v=fVyXsZCd7do) |
 |:---:|
 | **Podcast: Evaluación vs. Calificación + Problema de Experiencia Laboral** |
+
+---
+
+### Practicas en Word:
+
+| [![ Iniciando las Practicas 1, 2 y 3](https://img.youtube.com/vi/bCmDa08J5GE/hqdefault.jpg)](https://www.youtube.com/watch?v=bCmDa08J5GE) |
+|:---:|
+| **Iniciando las Practicas 1, 2 y 3** |
 
 
 ¡Gracias por tu apoyo! 🎉
