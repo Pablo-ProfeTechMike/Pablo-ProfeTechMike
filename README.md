@@ -76,9 +76,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 
 ### Practicas en Word:
 
-| [![ Iniciando las Practicas 1, 2 y 3](https://img.youtube.com/vi/bCmDa08J5GE/hqdefault.jpg)](https://www.youtube.com/watch?v=bCmDa08J5GE) |
-|:---:|
-| **Iniciando las Practicas 1, 2 y 3** |
+| [![ Iniciando las Practicas 1, 2 y 3](https://img.youtube.com/vi/bCmDa08J5GE/hqdefault.jpg)](https://www.youtube.com/watch?v=bCmDa08J5GE) | [![ Iniciando las Practicas 1, 2 y 3](https://img.youtube.com/vi/ugDw7DkLBWI/hqdefault.jpg)](https://www.youtube.com/watch?v=ugDw7DkLBWI) |
+|:---:|:---:|
+| **Iniciando las Practicas 1, 2 y 3** |**Iniciando las Practicas 1, 2 y 3** |**Ejercicios prácticos 4, 5 y 6 en Word**|
 
 
 ¡Gracias por tu apoyo! 🎉
