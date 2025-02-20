@@ -68,9 +68,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 
 ### Podcast:
 
-| [![ Podcast: Evaluación vs. Calificación + Problema de Experiencia Laboral](https://img.youtube.com/vi/fVyXsZCd7do/hqdefault.jpg)](https://www.youtube.com/watch?v=fVyXsZCd7do) |
-|:---:|
-| **Podcast: Evaluación vs. Calificación + Problema de Experiencia Laboral** |
+| [![ Podcast: Evaluación vs. Calificación + Problema de Experiencia Laboral](https://img.youtube.com/vi/fVyXsZCd7do/hqdefault.jpg)](https://www.youtube.com/watch?v=fVyXsZCd7do) | [![ Podcast: Evaluación vs. Calificación + Problema de Experiencia Laboral](https://img.youtube.com/vi/YyR78xQBdDk/hqdefault.jpg)](https://www.youtube.com/watch?v=YyR78xQBdDk) |
+|:---:|:---:|
+| **Podcast: Evaluación vs. Calificación + Problema de Experiencia Laboral** |**Podcast 2: ¿Cómo tener experiencia si no te dan la oportunidad** |
 
 ---
 
