@@ -80,8 +80,8 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Iniciando las Practicas 1, 2 y 3** |**Ejercicios prácticos 4, 5 y 6** |**Ejercicios prácticos 7, 8 y 9**|
 
-| [![ Ejercicios practicos 10 y 11 en Word](https://img.youtube.com/vi/BqGYQRJFQ6U/hqdefault.jpg)](https://www.youtube.com/watch?v=BqGYQRJFQ6U) |
-|:---:|
-| **Ejercicios practicos 10 y 11 en Word** |
+| [![ Ejercicios practicos 10 y 11 en Word](https://img.youtube.com/vi/BqGYQRJFQ6U/hqdefault.jpg)](https://www.youtube.com/watch?v=BqGYQRJFQ6U) |[![ Ejercicios practicos 10 y 11 en Word](https://img.youtube.com/vi/9zbhpSTc6Zo/hqdefault.jpg)](https://www.youtube.com/watch?v=9zbhpSTc6Zo) |
+|:---:|:---:|
+| **Ejercicios practicos 10 y 11 en Word** |**Ejercicios practicos 12 en Word** |
 
 ¡Gracias por tu apoyo! 🎉
