@@ -72,9 +72,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast: Evaluación vs. Calificación + Problema de Experiencia Laboral** |**Podcast 2: ¿Cómo tener experiencia si no te dan la oportunidad** |**Podcast 3: ¿Te pueden hackear? Descubre cómo protegerte en Internet** |
 
-|[![ 🎙️ Freelancer vs. Oficina: ¿Cuál es el mejor trabajo? 💻🏢](https://img.youtube.com/vi/z1lhRuQaDSw/hqdefault.jpg)](https://www.youtube.com/watch?v=z1lhRuQaDSw) |
-|:---:|
-| **🎙️ Freelancer vs. Oficina: ¿Cuál es el mejor trabajo? 💻🏢** |
+|[![ 🎙️ Freelancer vs. Oficina: ¿Cuál es el mejor trabajo? 💻🏢](https://img.youtube.com/vi/z1lhRuQaDSw/hqdefault.jpg)](https://www.youtube.com/watch?v=z1lhRuQaDSw) |[![ El Manejo de la Memoria RAM](https://img.youtube.com/vi/PfghrlYeZwg/hqdefault.jpg)](https://www.youtube.com/watch?v=PfghrlYeZwg) |
+|:---:|:---:|
+| **Podcast 4: 🎙️ Freelancer vs. Oficina: ¿Cuál es el mejor trabajo? 💻🏢** |**Podcast 5: El Manejo de la Memoria RAM** |
 
 ---
 
