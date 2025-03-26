@@ -92,5 +92,8 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Ejercicio practico 15 en Word** |**Ejercicio practico 16 en Word** |**Ejercicio practico 17 en Word** |
 
+| [![ Ejercicios practicos 18 en Word](https://img.youtube.com/vi/hy_OZy5Py54/hqdefault.jpg)](https://www.youtube.com/watch?v=hy_OZy5Py54) |
+|:---:|
+| **Ejercicio practico 18 en Word** |
 
 ¡Gracias por tu apoyo! 🎉
