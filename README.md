@@ -95,8 +95,8 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Ejercicio practico 15 en Word** |**Ejercicio practico 16 en Word** |**Ejercicio practico 17 en Word** |
 
-| [![ Ejercicios practicos 18 en Word](https://img.youtube.com/vi/hy_OZy5Py54/hqdefault.jpg)](https://www.youtube.com/watch?v=hy_OZy5Py54) | [![ Ejercicios practicos 19 en Word](https://img.youtube.com/vi/ZI1e2DnXGmo/hqdefault.jpg)](https://www.youtube.com/watch?v=ZI1e2DnXGmo) |
-|:---:|:---:|
-| **Ejercicio practico 18 en Word** |**Ejercicio practico 19 en Word** |
+| [![ Ejercicios practicos 18 en Word](https://img.youtube.com/vi/hy_OZy5Py54/hqdefault.jpg)](https://www.youtube.com/watch?v=hy_OZy5Py54) | [![ Ejercicios practicos 19 en Word](https://img.youtube.com/vi/ZI1e2DnXGmo/hqdefault.jpg)](https://www.youtube.com/watch?v=ZI1e2DnXGmo) | [![ Ejercicios practicos 20 en Word](https://img.youtube.com/vi/pM9JPS0rpwA/hqdefault.jpg)](https://www.youtube.com/watch?v=pM9JPS0rpwA) |
+|:---:|:---:|:---:|
+| **Ejercicio practico 18 en Word** |**Ejercicio practico 19 en Word** |**Ejercicio practico 20 en Word** |
 
 ¡Gracias por tu apoyo! 🎉
