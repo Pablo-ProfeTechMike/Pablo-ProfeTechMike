@@ -76,9 +76,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast 4: 🎙️ Freelancer vs. Oficina: ¿Cuál es el mejor trabajo? 💻🏢** |**Podcast 5: El Manejo de la Memoria RAM** |**Podcast 6: Tarjeta Madre** |
 
-|[![ Podcast 7](https://img.youtube.com/vi/nhwZ1n-v4x4/hqdefault.jpg)](https://www.youtube.com/watch?v=nhwZ1n-v4x4) |
-|:---:|
-| **Podcast 7: HDD vs SSD 🔥** |
+|[![ Podcast 7](https://img.youtube.com/vi/nhwZ1n-v4x4/hqdefault.jpg)](https://www.youtube.com/watch?v=nhwZ1n-v4x4) |[![ Podcast 8](https://img.youtube.com/vi/BK5l_PFppNE/hqdefault.jpg)](https://www.youtube.com/watch?v=BK5l_PFppNE) |
+|:---:|:---:|
+| **Podcast 7: HDD vs SSD 🔥** |**Podcast 8: ¿Qué es Hardware y Software?** |
 ---
 
 ### Practicas en Word:
