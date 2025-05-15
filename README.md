@@ -99,8 +99,15 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Ejercicio practico 18 en Word** |**Ejercicio practico 19 en Word** |**Ejercicio practico 20 en Word** |
 
-| [![ Ejercicios practicos 21 en Word](https://img.youtube.com/vi/bOkb1nUCbS0/hqdefault.jpg)](https://www.youtube.com/watch?v=bOkb1nUCbS0) |
+| [![ Ejercicios practicos 21 en Word](https://img.youtube.com/vi/bOkb1nUCbS0/hqdefault.jpg)](https://www.youtube.com/watch?v=bOkb1nUCbS0) |[![ Ejercicios practicos 22 en Word](https://img.youtube.com/vi/FTo_1WGg9rE/hqdefault.jpg)](https://www.youtube.com/watch?v=FTo_1WGg9rE) |
+|:---:|:---:|
+| **Ejercicio practico 21 en Word** |**Ejercicio practico 22 en Word** |
+---
+
+### Cursos en Excel:
+
+| [![ Iniciando el curso Microsoft Excel ](https://img.youtube.com/vi/WrkUqkOb8Qs/hqdefault.jpg)](https://www.youtube.com/watch?v=WrkUqkOb8Qs) |
 |:---:|
-| **Ejercicio practico 21 en Word** |
+| **Inciando el curso Microsoft Excel** |
 
 ¡Gracias por tu apoyo! 🎉
