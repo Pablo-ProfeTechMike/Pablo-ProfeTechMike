@@ -107,8 +107,8 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 
 ### Cursos en Excel:
 
-| [![ Iniciando el curso Microsoft Excel ](https://img.youtube.com/vi/WrkUqkOb8Qs/hqdefault.jpg)](https://www.youtube.com/watch?v=WrkUqkOb8Qs) |
-|:---:|
-| **Inciando el curso Microsoft Excel** |
+| [![ Iniciando el curso Microsoft Excel ](https://img.youtube.com/vi/WrkUqkOb8Qs/hqdefault.jpg)](https://www.youtube.com/watch?v=WrkUqkOb8Qs) |[![  Conoce el interior de Microsoft Excel ](https://img.youtube.com/vi/bRE4aTcMDDI/hqdefault.jpg)](https://www.youtube.com/watch?v=bRE4aTcMDDI) |
+|:---:|:---:|
+| **Inciando el curso Microsoft Excel** |**Conoce el interior de Microsoft Excel** |
 
 ¡Gracias por tu apoyo! 🎉
