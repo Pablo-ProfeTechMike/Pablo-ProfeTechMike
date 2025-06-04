@@ -80,6 +80,10 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast 7: HDD vs SSD 🔥** |**Podcast 8: ¿Qué es Hardware y Software?** |**Podcast 9: Targeta Grafica** |
 
+|[![ Podcast 10](https://img.youtube.com/vi/ttsWVy6nBpM/hqdefault.jpg)](https://www.youtube.com/watch?v=ttsWVy6nBpM) |
+|:---:|
+| **Podcast 10: Adiós Windows 10 😢 + Explicando Diagrama de Clases UML 👨‍🏫** |
+
 ---
 
 ### Practicas en Word:
