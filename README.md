@@ -127,7 +127,8 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 
 ### PROYECTOS Y PROPUESTAS:
 
-| [![ Calculadora de Evaluación en Java ](https://img.youtube.com/vi/9LK9k8GGqj4/hqdefault.jpg)](https://www.youtube.com/watch?v=9LK9k8GGqj4) |
-
+| [![ Calculadora de Evaluación en Java ](https://img.youtube.com/vi/9LK9k8GGqj4/hqdefault.jpg)](https://www.youtube.com/watch?v=9LK9k8GGqj4) |[![ Calculadora Binaria ](https://img.youtube.com/vi/Q5aWI7w72YU/hqdefault.jpg)](https://www.youtube.com/watch?v=Q5aWI7w72YU) |
+|:---:|:---:|
+| **Calculadora de Evaluación en Java** | **Calculadora Binaria** |
 
 ¡Gracias por tu apoyo! 🎉
