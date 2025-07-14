@@ -80,9 +80,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast 7: HDD vs SSD 🔥** |**Podcast 8: ¿Qué es Hardware y Software?** |**Podcast 9: Targeta Grafica** |
 
-|[![ Podcast 10](https://img.youtube.com/vi/ttsWVy6nBpM/hqdefault.jpg)](https://www.youtube.com/watch?v=ttsWVy6nBpM) |
-|:---:|
-| **Podcast 10: Adiós Windows 10 😢 + Explicando Diagrama de Clases UML 👨‍🏫** |
+|[![ Podcast 10](https://img.youtube.com/vi/ttsWVy6nBpM/hqdefault.jpg)](https://www.youtube.com/watch?v=ttsWVy6nBpM) |[![ Podcast 11](https://img.youtube.com/vi/o4QeCu0Qgb0/hqdefault.jpg)](https://www.youtube.com/watch?v=o4QeCu0Qgb0) |
+|:---:|:---:|
+| **Podcast 10: Adiós Windows 10 😢 + Explicando Diagrama de Clases UML 👨‍🏫** |**Podcast 11: ¿2.4 GHz o 5 GHz? 🔥 ¿Cuál es mejor para ti?** |
 
 ---
 
@@ -118,6 +118,10 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 | [![ Pestaña Insertar en Excel ](https://img.youtube.com/vi/tAKvTSeZebY/hqdefault.jpg)](https://www.youtube.com/watch?v=tAKvTSeZebY) |[![ Aprende la Pestaña Disposición de Página en Excel ](https://img.youtube.com/vi/XZogPdK8-9E/hqdefault.jpg)](https://www.youtube.com/watch?v=XZogPdK8-9E) |[![ Aprende la Pestaña Formulas en Excel ](https://img.youtube.com/vi/WpDHZduKkXY/hqdefault.jpg)](https://www.youtube.com/watch?v=WpDHZduKkXY) |
 |:---:|:---:|:---:|
 | **Pestaña Insertar en Excel** | **Pestaña Disposición de Página en Excel** | **Pestaña Formulas en Excel** |
+
+| [![ Pestaña Datos en Excel ](https://img.youtube.com/vi/q_GVHx5QMjM/hqdefault.jpg)](https://www.youtube.com/watch?v=q_GVHx5QMjM) |
+|:---:|
+| **Pestaña Datos en Excel** | 
 
 ---
 
