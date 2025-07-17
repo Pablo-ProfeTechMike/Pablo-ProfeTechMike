@@ -119,9 +119,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Pestaña Insertar en Excel** | **Pestaña Disposición de Página en Excel** | **Pestaña Formulas en Excel** |
 
-| [![ Pestaña Datos en Excel ](https://img.youtube.com/vi/q_GVHx5QMjM/hqdefault.jpg)](https://www.youtube.com/watch?v=q_GVHx5QMjM) |
-|:---:|
-| **Pestaña Datos en Excel** | 
+| [![ Pestaña Datos en Excel ](https://img.youtube.com/vi/q_GVHx5QMjM/hqdefault.jpg)](https://www.youtube.com/watch?v=q_GVHx5QMjM) |[![ Pestaña Datos en Excel ](https://img.youtube.com/vi/GdbIt5g0o5k/hqdefault.jpg)](https://www.youtube.com/watch?v=GdbIt5g0o5k) |
+|:---:|:---:|
+| **Pestaña Datos en Excel** |**Pestaña Revisar en Excel** |
 
 ---
 
