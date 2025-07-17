@@ -113,7 +113,7 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 
 | [![ Iniciando el curso Microsoft Excel ](https://img.youtube.com/vi/WrkUqkOb8Qs/hqdefault.jpg)](https://www.youtube.com/watch?v=WrkUqkOb8Qs) |[![  Conoce el interior de Microsoft Excel ](https://img.youtube.com/vi/bRE4aTcMDDI/hqdefault.jpg)](https://www.youtube.com/watch?v=bRE4aTcMDDI) | [![ 🧠 Domina la Pestaña de INICIO en Excel: ¡Aprende para qué sirve cada herramienta!](https://img.youtube.com/vi/gE6wWswadjA/hqdefault.jpg)](https://www.youtube.com/watch?v=gE6wWswadjA) |
 |:---:|:---:|:---:|
-| **Inciando el curso Microsoft Excel** |**Conoce el interior de Microsoft Excel** |**🧠 Domina la Pestaña de INICIO en Excel: ¡Aprende para qué sirve cada herramienta!** |
+| **Inciando el curso Microsoft Excel** |**Conoce el interior de Microsoft Excel** |**Pestaña Inicio en Excel** |
 
 | [![ Pestaña Insertar en Excel ](https://img.youtube.com/vi/tAKvTSeZebY/hqdefault.jpg)](https://www.youtube.com/watch?v=tAKvTSeZebY) |[![ Aprende la Pestaña Disposición de Página en Excel ](https://img.youtube.com/vi/XZogPdK8-9E/hqdefault.jpg)](https://www.youtube.com/watch?v=XZogPdK8-9E) |[![ Aprende la Pestaña Formulas en Excel ](https://img.youtube.com/vi/WpDHZduKkXY/hqdefault.jpg)](https://www.youtube.com/watch?v=WpDHZduKkXY) |
 |:---:|:---:|:---:|
