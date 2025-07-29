@@ -80,9 +80,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast 7: HDD vs SSD 🔥** |**Podcast 8: ¿Qué es Hardware y Software?** |**Podcast 9: Targeta Grafica** |
 
-|[![ Podcast 10](https://img.youtube.com/vi/ttsWVy6nBpM/hqdefault.jpg)](https://www.youtube.com/watch?v=ttsWVy6nBpM) |[![ Podcast 11](https://img.youtube.com/vi/o4QeCu0Qgb0/hqdefault.jpg)](https://www.youtube.com/watch?v=o4QeCu0Qgb0) |
-|:---:|:---:|
-| **Podcast 10: Adiós Windows 10 😢 + Explicando Diagrama de Clases UML 👨‍🏫** |**Podcast 11: ¿2.4 GHz o 5 GHz? 🔥 ¿Cuál es mejor para ti?** |
+|[![ Podcast 10](https://img.youtube.com/vi/ttsWVy6nBpM/hqdefault.jpg)](https://www.youtube.com/watch?v=ttsWVy6nBpM) |[![ Podcast 11](https://img.youtube.com/vi/o4QeCu0Qgb0/hqdefault.jpg)](https://www.youtube.com/watch?v=o4QeCu0Qgb0) |[![ Podcast 12](https://img.youtube.com/vi/J-CEjA1_sHY/hqdefault.jpg)](https://www.youtube.com/watch?v=J-CEjA1_sHY) |
+|:---:|:---:|:---:|
+| **Podcast 10: Adiós Windows 10 😢 + Explicando Diagrama de Clases UML 👨‍🏫** |**Podcast 11: ¿2.4 GHz o 5 GHz? 🔥 ¿Cuál es mejor para ti?** |**Podcast 12: ¿Sabías que XML aún se usa en muchas aplicaciones actuales?** |
 
 ---
 
@@ -119,9 +119,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Pestaña Insertar en Excel** | **Pestaña Disposición de Página en Excel** | **Pestaña Formulas en Excel** |
 
-| [![ Pestaña Datos en Excel ](https://img.youtube.com/vi/q_GVHx5QMjM/hqdefault.jpg)](https://www.youtube.com/watch?v=q_GVHx5QMjM) |[![ Pestaña Datos en Excel ](https://img.youtube.com/vi/GdbIt5g0o5k/hqdefault.jpg)](https://www.youtube.com/watch?v=GdbIt5g0o5k) |
-|:---:|:---:|
-| **Pestaña Datos en Excel** |**Pestaña Revisar en Excel** |
+| [![ Pestaña Datos en Excel ](https://img.youtube.com/vi/q_GVHx5QMjM/hqdefault.jpg)](https://www.youtube.com/watch?v=q_GVHx5QMjM) |[![ Pestaña Datos en Excel ](https://img.youtube.com/vi/GdbIt5g0o5k/hqdefault.jpg)](https://www.youtube.com/watch?v=GdbIt5g0o5k) |[![ Pestaña Datos en Excel ](https://img.youtube.com/vi/9ecbNATTzJ8/hqdefault.jpg)](https://www.youtube.com/watch?v=9ecbNATTzJ8) |
+|:---:|:---:|:---:|
+| **Pestaña Datos en Excel** |**Pestaña Revisar en Excel** |**Pestaña Vista en Excel** |
 
 ---
 
