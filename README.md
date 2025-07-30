@@ -84,6 +84,10 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast 10: Adiós Windows 10 😢 + Explicando Diagrama de Clases UML 👨‍🏫** |**Podcast 11: ¿2.4 GHz o 5 GHz? 🔥 ¿Cuál es mejor para ti?** |**Podcast 12: ¿Sabías que XML aún se usa en muchas aplicaciones actuales?** |
 
+|[![ Podcast 13](https://img.youtube.com/vi/uCqKrN92XLk/hqdefault.jpg)](https://www.youtube.com/watch?v=uCqKrN92XLk) |
+|:---:|
+| **Podcast 13: Dispositivos de Almacenamiento** |
+
 ---
 
 ### Practicas en Word:
