@@ -15,10 +15,10 @@
   <a href="https://www.linkedin.com/in/pablo-adri%C3%A1n-herrera-amieva-a86117184/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/people/Super-Kong/61566351711448/" target="_blank">
+  <a href="https://www.facebook.com/people/Profetechmike/61577086169921/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://www.yourwebsite.com" target="_blank">
+  <a href="https://pablo-profetechmike.github.io/Portafolio.github.io-main/index.html" target="_blank">
     <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
@@ -131,8 +131,8 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 
 ### PROYECTOS Y PROPUESTAS:
 
-| [![ Calculadora de Evaluación en Java ](https://img.youtube.com/vi/9LK9k8GGqj4/hqdefault.jpg)](https://www.youtube.com/watch?v=9LK9k8GGqj4) |[![ Calculadora Binaria ](https://img.youtube.com/vi/Q5aWI7w72YU/hqdefault.jpg)](https://www.youtube.com/watch?v=Q5aWI7w72YU) |
-|:---:|:---:|
-| **Calculadora de Evaluación en Java** | **Calculadora Binaria** |
+| [![ Calculadora de Evaluación en Java ](https://img.youtube.com/vi/9LK9k8GGqj4/hqdefault.jpg)](https://www.youtube.com/watch?v=9LK9k8GGqj4) |[![ Calculadora Binaria ](https://img.youtube.com/vi/Q5aWI7w72YU/hqdefault.jpg)](https://www.youtube.com/watch?v=Q5aWI7w72YU) |[![ Calculadora Pitagoras ](https://img.youtube.com/vi/LTydM8ViQI8/hqdefault.jpg)](https://www.youtube.com/watch?v=LTydM8ViQI8) |
+|:---:|:---:|:---:|
+| **Calculadora de Evaluación en Java** | **Calculadora Binaria** | **Calculadora Pitagoras** |
 
 ¡Gracias por tu apoyo! 🎉
