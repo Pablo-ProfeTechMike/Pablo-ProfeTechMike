@@ -131,9 +131,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 
 ### Ejercicios Formularios:
 
-| [![ Ejercicio 1 ](https://img.youtube.com/vi/o1RaA07PqpE/hqdefault.jpg)](https://www.youtube.com/watch?v=o1RaA07PqpE) |[![ Ejercicio 2 ](https://img.youtube.com/vi/romVKqZWa0c/hqdefault.jpg)](https://www.youtube.com/watch?v=romVKqZWa0c) |
-|:---:|:---:|
-| **Ejercicio 1 en Excel** |**Ejercicio 2 en Excel** |
+| [![ Ejercicio 1 ](https://img.youtube.com/vi/o1RaA07PqpE/hqdefault.jpg)](https://www.youtube.com/watch?v=o1RaA07PqpE) |[![ Ejercicio 2 ](https://img.youtube.com/vi/romVKqZWa0c/hqdefault.jpg)](https://www.youtube.com/watch?v=romVKqZWa0c) |[![ Ejercicio 3 ](https://img.youtube.com/vi/2ZSO5D_myLQ/hqdefault.jpg)](https://www.youtube.com/watch?v=2ZSO5D_myLQ) |
+|:---:|:---:|:---:|
+| **Ejercicio 1 en Excel** |**Ejercicio 2 en Excel** |**Ejercicio 3 en Excel** |
 
 ---
 
