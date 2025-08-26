@@ -84,9 +84,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast 10: Adiós Windows 10 😢 + Explicando Diagrama de Clases UML 👨‍🏫** |**Podcast 11: ¿2.4 GHz o 5 GHz? 🔥 ¿Cuál es mejor para ti?** |**Podcast 12: ¿Sabías que XML aún se usa en muchas aplicaciones actuales?** |
 
-|[![ Podcast 13](https://img.youtube.com/vi/uCqKrN92XLk/hqdefault.jpg)](https://www.youtube.com/watch?v=uCqKrN92XLk) |
-|:---:|
-| **Podcast 13: Dispositivos de Almacenamiento** |
+|[![ Podcast 13](https://img.youtube.com/vi/uCqKrN92XLk/hqdefault.jpg)](https://www.youtube.com/watch?v=uCqKrN92XLk) |[![ Podcast 14](https://img.youtube.com/vi/a3qhvU7pXZE/hqdefault.jpg)](https://www.youtube.com/watch?v=a3qhvU7pXZE) |
+|:---:|:---:|
+| **Podcast 13: Dispositivos de Almacenamiento** |**Podcast 14: ¿Contratamos hojas de papel o talento real?** |
 
 ---
 
@@ -143,5 +143,8 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Calculadora de Evaluación en Java** | **Calculadora Binaria** | **Calculadora Pitagoras** |
 
+| [![ Alarma de Batería ](https://img.youtube.com/vi/VNOfb1rBy20/hqdefault.jpg)](https://www.youtube.com/watch?v=VNOfb1rBy20) |
+|:---:|
+| **Alarma de Batería** |
 
 ¡Gracias por tu apoyo! 🎉
