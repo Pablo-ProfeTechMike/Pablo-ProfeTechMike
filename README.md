@@ -84,9 +84,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast 10: Adiós Windows 10 😢 + Explicando Diagrama de Clases UML 👨‍🏫** |**Podcast 11: ¿2.4 GHz o 5 GHz? 🔥 ¿Cuál es mejor para ti?** |**Podcast 12: ¿Sabías que XML aún se usa en muchas aplicaciones actuales?** |
 
-|[![ Podcast 13](https://img.youtube.com/vi/uCqKrN92XLk/hqdefault.jpg)](https://www.youtube.com/watch?v=uCqKrN92XLk) |[![ Podcast 14](https://img.youtube.com/vi/a3qhvU7pXZE/hqdefault.jpg)](https://www.youtube.com/watch?v=a3qhvU7pXZE) |
-|:---:|:---:|
-| **Podcast 13: Dispositivos de Almacenamiento** |**Podcast 14: ¿Contratamos hojas de papel o talento real?** |
+|[![ Podcast 13](https://img.youtube.com/vi/uCqKrN92XLk/hqdefault.jpg)](https://www.youtube.com/watch?v=uCqKrN92XLk) |[![ Podcast 14](https://img.youtube.com/vi/a3qhvU7pXZE/hqdefault.jpg)](https://www.youtube.com/watch?v=a3qhvU7pXZE) |[![ Podcast 15](https://img.youtube.com/vi/ityzkW7Q0qY/hqdefault.jpg)](https://www.youtube.com/watch?v=ityzkW7Q0qY) |
+|:---:|:---:|:---:|
+| **Podcast 13: Dispositivos de Almacenamiento** |**Podcast 14: ¿Contratamos hojas de papel o talento real?** |**Podcast 15: ¿Qué son los DRIVERS o CONTROLADORES en tu PC?** |
 
 ---
 
@@ -135,9 +135,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Ejercicio 1 en Excel** |**Ejercicio 2 en Excel** |**Ejercicio 3 en Excel** |
 
-| [![ Ejercicio 4 ](https://img.youtube.com/vi/dQUQHbNbZas/hqdefault.jpg)](https://www.youtube.com/watch?v=dQUQHbNbZas) |
-|:---:|
-| **Ejercicio 4 en Excel** |
+| [![ Ejercicio 4 ](https://img.youtube.com/vi/dQUQHbNbZas/hqdefault.jpg)](https://www.youtube.com/watch?v=dQUQHbNbZas) |[![ Ejercicio 5 ](https://img.youtube.com/vi/Tvd43EwiTrk/hqdefault.jpg)](https://www.youtube.com/watch?v=Tvd43EwiTrk) |
+|:---:|:---:|
+| **Ejercicio 4 en Excel** |**Ejercicio 5 en Excel** |
 
 ---
 
