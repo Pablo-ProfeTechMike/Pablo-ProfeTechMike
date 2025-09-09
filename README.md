@@ -88,6 +88,10 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast 13: Dispositivos de Almacenamiento** |**Podcast 14: ¿Contratamos hojas de papel o talento real?** |**Podcast 15: ¿Qué son los DRIVERS o CONTROLADORES en tu PC?** |
 
+|[![ Podcast 16](https://img.youtube.com/vi/FkMHkvYxLO4/hqdefault.jpg)](https://www.youtube.com/watch?v=FkMHkvYxLO4) |
+|:---:|
+| **Podcast 16: Impresoras: Definición, Función y Tipos** |
+
 ---
 
 ### Practicas en Word:
