@@ -151,8 +151,8 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Calculadora de Evaluación en Java** | **Calculadora Binaria** | **Calculadora Pitagoras** |
 
-| [![ Alarma de Batería ](https://img.youtube.com/vi/VNOfb1rBy20/hqdefault.jpg)](https://www.youtube.com/watch?v=VNOfb1rBy20) |
-|:---:|
-| **Alarma de Batería** |
+| [![ Alarma de Batería ](https://img.youtube.com/vi/VNOfb1rBy20/hqdefault.jpg)](https://www.youtube.com/watch?v=VNOfb1rBy20) |[![ Calculadora Hallar un lado ](https://img.youtube.com/vi/erF72a3TFW0/hqdefault.jpg)](https://www.youtube.com/watch?v=erF72a3TFW0) |
+|:---:|:---:|
+| **Alarma de Batería** |**Calculadora Hallar un lado** |
 
 ¡Gracias por tu apoyo! 🎉
