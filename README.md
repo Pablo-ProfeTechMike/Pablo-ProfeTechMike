@@ -88,9 +88,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast 13: Dispositivos de Almacenamiento** |**Podcast 14: ¿Contratamos hojas de papel o talento real?** |**Podcast 15: ¿Qué son los DRIVERS o CONTROLADORES en tu PC?** |
 
-|[![ Podcast 16](https://img.youtube.com/vi/FkMHkvYxLO4/hqdefault.jpg)](https://www.youtube.com/watch?v=FkMHkvYxLO4) |
-|:---:|
-| **Podcast 16: Impresoras: Definición, Función y Tipos** |
+|[![ Podcast 16](https://img.youtube.com/vi/FkMHkvYxLO4/hqdefault.jpg)](https://www.youtube.com/watch?v=FkMHkvYxLO4) |[![ Podcast 17](https://img.youtube.com/vi/1K-jmRR_dW4/hqdefault.jpg)](https://www.youtube.com/watch?v=1K-jmRR_dW4) |
+|:---:|:---:|
+| **Podcast 16: Impresoras: Definición, Función y Tipos** |**Podcast 17: Recursos Humanos** |
 
 ---
 
@@ -143,9 +143,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Ejercicio 4 en Excel** |**Ejercicio 5 en Excel** |**Ejercicio 6 en Excel** |
 
-| [![ Ejercicio 7 ](https://img.youtube.com/vi/kqnsSkaGBsE/hqdefault.jpg)](https://www.youtube.com/watch?v=kqnsSkaGBsE) |
-|:---:|
-| **Ejercicio 7 en Excel** |
+| [![ Ejercicio 7 ](https://img.youtube.com/vi/kqnsSkaGBsE/hqdefault.jpg)](https://www.youtube.com/watch?v=kqnsSkaGBsE) |[![ Ejercicio 8 ](https://img.youtube.com/vi/Y2ubXHEvGIs/hqdefault.jpg)](https://www.youtube.com/watch?v=Y2ubXHEvGIs) |
+|:---:|:---:|
+| **Ejercicio 7 en Excel** |**Ejercicio 8 en Excel** |
 
 ---
 
