@@ -143,9 +143,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Ejercicio 4 en Excel** |**Ejercicio 5 en Excel** |**Ejercicio 6 en Excel** |
 
-| [![ Ejercicio 7 ](https://img.youtube.com/vi/kqnsSkaGBsE/hqdefault.jpg)](https://www.youtube.com/watch?v=kqnsSkaGBsE) |[![ Ejercicio 8 ](https://img.youtube.com/vi/Y2ubXHEvGIs/hqdefault.jpg)](https://www.youtube.com/watch?v=Y2ubXHEvGIs) |
-|:---:|:---:|
-| **Ejercicio 7 en Excel** |**Ejercicio 8 en Excel** |
+| [![ Ejercicio 7 ](https://img.youtube.com/vi/kqnsSkaGBsE/hqdefault.jpg)](https://www.youtube.com/watch?v=kqnsSkaGBsE) |[![ Ejercicio 8 ](https://img.youtube.com/vi/Y2ubXHEvGIs/hqdefault.jpg)](https://www.youtube.com/watch?v=Y2ubXHEvGIs) | [![ Ejercicio 9 ](https://img.youtube.com/vi/2Xs84pHcVpg/hqdefault.jpg)](https://www.youtube.com/watch?v=2Xs84pHcVpg) |
+|:---:|:---:|:---:|
+| **Ejercicio 7 en Excel** |**Ejercicio 8 en Excel** |**Ejercicio 9 en Excel** |
 
 ---
 
