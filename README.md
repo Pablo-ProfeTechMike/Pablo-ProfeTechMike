@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=ecf05e476o81hxpw9txenqhe36aen937e2xjq55acwutvbzy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">¡Bienvenidos a ProfeTechMike! Tu espacio para aprender tecnología, programación y mucho más.
 
-![Banner de Pablo-ProfeTechMike](profetechmike-github.png)
+![Banner de Pablo-ProfeTechMike](class.png)
 
 <div id="badges">
   <a href="https://www.youtube.com/@ProfeTechMike" target="_blank">
