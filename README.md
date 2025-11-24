@@ -147,6 +147,10 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Ejercicio 7 en Excel** |**Ejercicio 8 en Excel** |**Ejercicio 9 en Excel** |
 
+| [![ Ejercicio 10 ](https://img.youtube.com/vi/5KrWGZRRqUw/hqdefault.jpg)](https://www.youtube.com/watch?v=5KrWGZRRqUw) |[![ Ejercicio 11 ](https://img.youtube.com/vi/ze_MpMlaKDU/hqdefault.jpg)](https://www.youtube.com/watch?v=ze_MpMlaKDU) | 
+|:---:|:---:|
+| **Ejercicio 10 en Excel** |**Ejercicio 11 en Excel** |
+
 ---
 
 ### PROYECTOS Y PROPUESTAS:
@@ -158,5 +162,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 | [![ Alarma de Batería ](https://img.youtube.com/vi/VNOfb1rBy20/hqdefault.jpg)](https://www.youtube.com/watch?v=VNOfb1rBy20) |[![ Calculadora Hallar un lado ](https://img.youtube.com/vi/erF72a3TFW0/hqdefault.jpg)](https://www.youtube.com/watch?v=erF72a3TFW0) |[![ Ecuaciones ](https://img.youtube.com/vi/dJ6U9vBlOKI/hqdefault.jpg)](https://www.youtube.com/watch?v=dJ6U9vBlOKI) |
 |:---:|:---:|:---:|
 | **Alarma de Batería** |**Calculadora Hallar un lado** |**Calculadora de Ecuaciones** |
+
+| [![ Propuesta 1 ](https://img.youtube.com/vi/79887ww1Tis/hqdefault.jpg)](https://www.youtube.com/watch?v=79887ww1Tis) |
+|:---:|
+|**Propuesta 1** |
 
 ¡Gracias por tu apoyo! 🎉
