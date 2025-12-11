@@ -151,6 +151,10 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Ejercicio 10 en Excel** |**Ejercicio 11 en Excel** |**Ejercicio 12 en Excel** |
 
+| [![ Ejercicio 13 ](https://img.youtube.com/vi/LASA1L14IoU/hqdefault.jpg)](https://www.youtube.com/watch?v=LASA1L14IoU) |[![ Ejercicio 14 ](https://img.youtube.com/vi/d-MHM2df754/hqdefault.jpg)](https://www.youtube.com/watch?v=d-MHM2df754) |
+|:---:|:---:|
+| **Ejercicio 13 en Excel** |**Ejercicio 14 en Excel** |
+
 ---
 
 ### PROYECTOS Y PROPUESTAS:
