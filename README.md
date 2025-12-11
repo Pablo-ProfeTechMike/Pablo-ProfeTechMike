@@ -88,9 +88,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast 13: Dispositivos de Almacenamiento** |**Podcast 14: ¿Contratamos hojas de papel o talento real?** |**Podcast 15: ¿Qué son los DRIVERS o CONTROLADORES en tu PC?** |
 
-|[![ Podcast 16](https://img.youtube.com/vi/FkMHkvYxLO4/hqdefault.jpg)](https://www.youtube.com/watch?v=FkMHkvYxLO4) |[![ Podcast 17](https://img.youtube.com/vi/1K-jmRR_dW4/hqdefault.jpg)](https://www.youtube.com/watch?v=1K-jmRR_dW4) |
-|:---:|:---:|
-| **Podcast 16: Impresoras: Definición, Función y Tipos** |**Podcast 17: Recursos Humanos** |
+|[![ Podcast 16](https://img.youtube.com/vi/FkMHkvYxLO4/hqdefault.jpg)](https://www.youtube.com/watch?v=FkMHkvYxLO4) |[![ Podcast 17](https://img.youtube.com/vi/1K-jmRR_dW4/hqdefault.jpg)](https://www.youtube.com/watch?v=1K-jmRR_dW4) |[![ Podcast 18](https://img.youtube.com/vi/2jtoUL_USFs/hqdefault.jpg)](https://www.youtube.com/watch?v=2jtoUL_USFs) |
+|:---:|:---:|:---:|
+| **Podcast 16: Impresoras: Definición, Función y Tipos** |**Podcast 17: Recursos Humanos** |**Podcast 18:  ¿Por qué tu PORTFOLIO WEB puede cambiarlo TODO?** |
 
 ---
 
