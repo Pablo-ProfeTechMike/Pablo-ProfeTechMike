@@ -40,7 +40,7 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ProfeTechMike)
 
 ### Video Destacado:
-[![Video Destacado](https://img.youtube.com/vi/CT1QMe5RqSw/hqdefault.jpg)](https://www.youtube.com/watch?v=CT1QMe5RqSw)
+[![Video Destacado](https://img.youtube.com/vi/iyNsQxgWHXA/hqdefault.jpg)](https://www.youtube.com/watch?v=iyNsQxgWHXA)
 
 > Haz clic en la imagen para ver el video directamente en YouTube.
 
@@ -162,9 +162,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Ejercicio 13 en Excel** |**Ejercicio 14 en Excel** |**Ejercicio 15 en Excel** |
 
-| [![ Ejercicio 16 ](https://img.youtube.com/vi/INbhqW1aPVY/hqdefault.jpg)](https://www.youtube.com/watch?v=INbhqW1aPVY) |
-|:---:|
-| **Ejercicio 16 en Excel** |
+| [![ Ejercicio 16 ](https://img.youtube.com/vi/INbhqW1aPVY/hqdefault.jpg)](https://www.youtube.com/watch?v=INbhqW1aPVY) |[![ Ejercicio 17 ](https://img.youtube.com/vi/2glNsw1aMCg/hqdefault.jpg)](https://www.youtube.com/watch?v=2glNsw1aMCg) |
+|:---:|:---:|
+| **Ejercicio 16 en Excel** |**Ejercicio 17 en Excel** |
 
 ---
 
