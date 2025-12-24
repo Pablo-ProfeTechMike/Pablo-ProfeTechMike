@@ -92,6 +92,13 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast 16: Impresoras: Definición, Función y Tipos** |**Podcast 17: Recursos Humanos** |**Podcast 18:  ¿Por qué tu PORTFOLIO WEB puede cambiarlo TODO?** |
 
+|[![ Podcast 19](https://img.youtube.com/vi/EdCn9xJnrb0/hqdefault.jpg)](https://www.youtube.com/watch?v=EdCn9xJnrb0) |[![ Podcast 20](https://img.youtube.com/vi/QJajE5oK_qY/hqdefault.jpg)](https://www.youtube.com/watch?v=QJajE5oK_qY) |[![ Podcast 21](https://img.youtube.com/vi/v27hXdQlU3w/hqdefault.jpg)](https://www.youtube.com/watch?v=v27hXdQlU3w) |
+|:---:|:---:|:---:|
+| **Podcast 19: Procesadores de Computadora Intel vs Ryzen** |**Podcast 20: Experiencial laboral vs Experiencia Profesional** |**Podcast 21:  ¿Qué COMPUTADORA comprar en 2025? Guía según tu presupuesto 💻🚀** |
+
+|[![ Podcast 22](https://img.youtube.com/vi/aW5N2bSusa0/hqdefault.jpg)](https://www.youtube.com/watch?v=aW5N2bSusa0) |
+|:---:|
+| **Podcast 22: La BASE DE DATOS de Santa Claus: Modelo Entidad-Relación (MER)** |
 ---
 
 ### Practicas en Word:
@@ -151,9 +158,13 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Ejercicio 10 en Excel** |**Ejercicio 11 en Excel** |**Ejercicio 12 en Excel** |
 
-| [![ Ejercicio 13 ](https://img.youtube.com/vi/LASA1L14IoU/hqdefault.jpg)](https://www.youtube.com/watch?v=LASA1L14IoU) |[![ Ejercicio 14 ](https://img.youtube.com/vi/d-MHM2df754/hqdefault.jpg)](https://www.youtube.com/watch?v=d-MHM2df754) |
-|:---:|:---:|
-| **Ejercicio 13 en Excel** |**Ejercicio 14 en Excel** |
+| [![ Ejercicio 13 ](https://img.youtube.com/vi/LASA1L14IoU/hqdefault.jpg)](https://www.youtube.com/watch?v=LASA1L14IoU) |[![ Ejercicio 14 ](https://img.youtube.com/vi/d-MHM2df754/hqdefault.jpg)](https://www.youtube.com/watch?v=d-MHM2df754) |[![ Ejercicio 15 ](https://img.youtube.com/vi/Cg8DH1_06eE/hqdefault.jpg)](https://www.youtube.com/watch?v=Cg8DH1_06eE) |
+|:---:|:---:|:---:|
+| **Ejercicio 13 en Excel** |**Ejercicio 14 en Excel** |**Ejercicio 15 en Excel** |
+
+| [![ Ejercicio 16 ](https://img.youtube.com/vi/INbhqW1aPVY/hqdefault.jpg)](https://www.youtube.com/watch?v=INbhqW1aPVY) |
+|:---:|
+| **Ejercicio 16 en Excel** |
 
 ---
 
