@@ -162,9 +162,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Ejercicio 13 en Excel** |**Ejercicio 14 en Excel** |**Ejercicio 15 en Excel** |
 
-| [![ Ejercicio 16 ](https://img.youtube.com/vi/INbhqW1aPVY/hqdefault.jpg)](https://www.youtube.com/watch?v=INbhqW1aPVY) |[![ Ejercicio 17 ](https://img.youtube.com/vi/2glNsw1aMCg/hqdefault.jpg)](https://www.youtube.com/watch?v=2glNsw1aMCg) |
-|:---:|:---:|
-| **Ejercicio 16 en Excel** |**Ejercicio 17 en Excel** |
+| [![ Ejercicio 16 ](https://img.youtube.com/vi/INbhqW1aPVY/hqdefault.jpg)](https://www.youtube.com/watch?v=INbhqW1aPVY) |[![ Ejercicio 17 ](https://img.youtube.com/vi/2glNsw1aMCg/hqdefault.jpg)](https://www.youtube.com/watch?v=2glNsw1aMCg) |  [![ Ejercicio 16 ](https://img.youtube.com/vi/_eONku6imwk/hqdefault.jpg)](https://www.youtube.com/watch?v=_eONku6imwk) |
+|:---:|:---:|:---:|
+| **Ejercicio 16 en Excel** |**Ejercicio 17 en Excel** |**Ejercicio 18 en Excel** |
 
 ---
 
