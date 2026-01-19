@@ -181,8 +181,8 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Alarma de Batería** |**Calculadora Hallar un lado** |**Calculadora de Ecuaciones** |
 
-| [![ Propuesta 1 ](https://img.youtube.com/vi/79887ww1Tis/hqdefault.jpg)](https://www.youtube.com/watch?v=79887ww1Tis) | [![ Propuesta 2 ](https://img.youtube.com/vi/W-YyHk59eeM/hqdefault.jpg)](https://www.youtube.com/watch?v=W-YyHk59eeM) |
-|:---:|:---:|
-|**Propuesta 1** |**Propuesta 2** |
+| [![ Propuesta 1 ](https://img.youtube.com/vi/79887ww1Tis/hqdefault.jpg)](https://www.youtube.com/watch?v=79887ww1Tis) | [![ Propuesta 2 ](https://img.youtube.com/vi/W-YyHk59eeM/hqdefault.jpg)](https://www.youtube.com/watch?v=W-YyHk59eeM) | [![ Propuesta 3 ](https://img.youtube.com/vi/Xx6fgqiEKSU/hqdefault.jpg)](https://www.youtube.com/watch?v=Xx6fgqiEKSU) |
+|:---:|:---:|:---:|
+|**Propuesta 1** |**Propuesta 2** |**Propuesta 3** |
 
 ¡Gracias por tu apoyo! 🎉
