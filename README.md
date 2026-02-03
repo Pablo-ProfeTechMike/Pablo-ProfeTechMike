@@ -96,9 +96,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast 19: Procesadores de Computadora Intel vs Ryzen** |**Podcast 20: Experiencial laboral vs Experiencia Profesional** |**Podcast 21:  ¿Qué COMPUTADORA comprar en 2025? Guía según tu presupuesto 💻🚀** |
 
-|[![ Podcast 22](https://img.youtube.com/vi/aW5N2bSusa0/hqdefault.jpg)](https://www.youtube.com/watch?v=aW5N2bSusa0) |
-|:---:|
-| **Podcast 22: La BASE DE DATOS de Santa Claus: Modelo Entidad-Relación (MER)** |
+|[![ Podcast 22](https://img.youtube.com/vi/aW5N2bSusa0/hqdefault.jpg)](https://www.youtube.com/watch?v=aW5N2bSusa0) |[![ Podcast 23](https://img.youtube.com/vi/QEZXfIKu7fo/hqdefault.jpg)](https://www.youtube.com/watch?v=QEZXfIKu7fo) |
+|:---:|:---:|
+| **Podcast 22: La BASE DE DATOS de Santa Claus: Modelo Entidad-Relación (MER)** |**Podcast 23: ¿Qué es un SISTEMA OPERATIVO y cómo elegir el mejor?** |
 ---
 
 ### Practicas en Word:
@@ -169,6 +169,10 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 | [![ Ejercicio 19 ](https://img.youtube.com/vi/NT50xdW6pV4/hqdefault.jpg)](https://www.youtube.com/watch?v=NT50xdW6pV4) |  [![ Ejercicio 20 ](https://img.youtube.com/vi/EFAZbMafnXY/hqdefault.jpg)](https://www.youtube.com/watch?v=EFAZbMafnXY) | [![ Ejercicio 21 ](https://img.youtube.com/vi/zx3emSjvmw0/hqdefault.jpg)](https://www.youtube.com/watch?v=zx3emSjvmw0) |
 |:---:|:---:|:---:|
 |**Ejercicio 19 en Excel** |**Ejercicio 20 en Excel** |**Ejercicio 21 en Excel** |
+
+| [![ Ejercicio 22 ](https://img.youtube.com/vi/6lyv96cSQfE/hqdefault.jpg)](https://www.youtube.com/watch?v=6lyv96cSQfE) |  [![ Ejercicio 23 ](https://img.youtube.com/vi/zNa7YvlxAmM/hqdefault.jpg)](https://www.youtube.com/watch?v=zNa7YvlxAmM) | 
+|:---:|:---:|
+|**Ejercicio 22 en Excel** |**Ejercicio 23 en Excel** |
 ---
 
 ### PROYECTOS Y PROPUESTAS:
