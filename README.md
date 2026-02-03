@@ -170,9 +170,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 |**Ejercicio 19 en Excel** |**Ejercicio 20 en Excel** |**Ejercicio 21 en Excel** |
 
-| [![ Ejercicio 22 ](https://img.youtube.com/vi/6lyv96cSQfE/hqdefault.jpg)](https://www.youtube.com/watch?v=6lyv96cSQfE) |  [![ Ejercicio 23 ](https://img.youtube.com/vi/zNa7YvlxAmM/hqdefault.jpg)](https://www.youtube.com/watch?v=zNa7YvlxAmM) | 
-|:---:|:---:|
-|**Ejercicio 22 en Excel** |**Ejercicio 23 en Excel** |
+| [![ Ejercicio 22 ](https://img.youtube.com/vi/6lyv96cSQfE/hqdefault.jpg)](https://www.youtube.com/watch?v=6lyv96cSQfE) |  [![ Ejercicio 23 ](https://img.youtube.com/vi/zNa7YvlxAmM/hqdefault.jpg)](https://www.youtube.com/watch?v=zNa7YvlxAmM) | [![ Ejercicio 24 ](https://img.youtube.com/vi/GHY6s2pKCrw/hqdefault.jpg)](https://www.youtube.com/watch?v=GHY6s2pKCrw) | 
+|:---:|:---:|:---:|
+|**Ejercicio 22 en Excel** |**Ejercicio 23 en Excel** |**Ejercicio 24 en Excel** |
 ---
 
 ### PROYECTOS Y PROPUESTAS:
