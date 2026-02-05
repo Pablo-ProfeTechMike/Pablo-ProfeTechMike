@@ -96,9 +96,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast 19: Procesadores de Computadora Intel vs Ryzen** |**Podcast 20: Experiencial laboral vs Experiencia Profesional** |**Podcast 21:  ¿Qué COMPUTADORA comprar en 2025? Guía según tu presupuesto 💻🚀** |
 
-|[![ Podcast 22](https://img.youtube.com/vi/aW5N2bSusa0/hqdefault.jpg)](https://www.youtube.com/watch?v=aW5N2bSusa0) |[![ Podcast 23](https://img.youtube.com/vi/QEZXfIKu7fo/hqdefault.jpg)](https://www.youtube.com/watch?v=QEZXfIKu7fo) |
-|:---:|:---:|
-| **Podcast 22: La BASE DE DATOS de Santa Claus: Modelo Entidad-Relación (MER)** |**Podcast 23: ¿Qué es un SISTEMA OPERATIVO y cómo elegir el mejor?** |
+|[![ Podcast 22](https://img.youtube.com/vi/aW5N2bSusa0/hqdefault.jpg)](https://www.youtube.com/watch?v=aW5N2bSusa0) |[![ Podcast 23](https://img.youtube.com/vi/QEZXfIKu7fo/hqdefault.jpg)](https://www.youtube.com/watch?v=QEZXfIKu7fo) |[![ Podcast 24](https://img.youtube.com/vi/o3ca-UdsLkI/hqdefault.jpg)](https://www.youtube.com/watch?v=o3ca-UdsLkI) |
+|:---:|:---:|:---:|
+| **Podcast 22: La BASE DE DATOS de Santa Claus: Modelo Entidad-Relación (MER)** |**Podcast 23: ¿Qué es un SISTEMA OPERATIVO y cómo elegir el mejor?** |**Podcast 24: Guía Definitiva de PUERTOS DE CONEXIÓN: ¡No te equivoques más!** |
 ---
 
 ### Practicas en Word:
@@ -173,6 +173,11 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 | [![ Ejercicio 22 ](https://img.youtube.com/vi/6lyv96cSQfE/hqdefault.jpg)](https://www.youtube.com/watch?v=6lyv96cSQfE) |  [![ Ejercicio 23 ](https://img.youtube.com/vi/zNa7YvlxAmM/hqdefault.jpg)](https://www.youtube.com/watch?v=zNa7YvlxAmM) | [![ Ejercicio 24 ](https://img.youtube.com/vi/GHY6s2pKCrw/hqdefault.jpg)](https://www.youtube.com/watch?v=GHY6s2pKCrw) | 
 |:---:|:---:|:---:|
 |**Ejercicio 22 en Excel** |**Ejercicio 23 en Excel** |**Ejercicio 24 en Excel** |
+
+| [![ Ejercicio 25 ](https://img.youtube.com/vi/bQ0q7hc9hcY/hqdefault.jpg)](https://www.youtube.com/watch?v=bQ0q7hc9hcY) |
+|:---:|
+|**Ejercicio 25 en Excel** |
+
 ---
 
 ### PROYECTOS Y PROPUESTAS:
