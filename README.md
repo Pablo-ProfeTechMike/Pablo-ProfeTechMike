@@ -174,9 +174,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 |**Ejercicio 22 en Excel** |**Ejercicio 23 en Excel** |**Ejercicio 24 en Excel** |
 
-| [![ Ejercicio 25 ](https://img.youtube.com/vi/bQ0q7hc9hcY/hqdefault.jpg)](https://www.youtube.com/watch?v=bQ0q7hc9hcY) |[![ Ejercicio 26 ](https://img.youtube.com/vi/PF6O9AVOBGE/hqdefault.jpg)](https://www.youtube.com/watch?v=PF6O9AVOBGE) |
-|:---:|:---:|
-|**Ejercicio 25 en Excel** |**Ejercicio 26 en Excel** |
+| [![ Ejercicio 25 ](https://img.youtube.com/vi/bQ0q7hc9hcY/hqdefault.jpg)](https://www.youtube.com/watch?v=bQ0q7hc9hcY) |[![ Ejercicio 26 ](https://img.youtube.com/vi/PF6O9AVOBGE/hqdefault.jpg)](https://www.youtube.com/watch?v=PF6O9AVOBGE) |[![ Ejercicio 27 ](https://img.youtube.com/vi/U99VRHTvG-k/hqdefault.jpg)](https://www.youtube.com/watch?v=U99VRHTvG-k) |
+|:---:|:---:|:---:|
+|**Ejercicio 25 en Excel** |**Ejercicio 26 en Excel** |**Ejercicio 27 en Excel** |
 
 ---
 
