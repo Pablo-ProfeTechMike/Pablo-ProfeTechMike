@@ -99,6 +99,10 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |[![ Podcast 22](https://img.youtube.com/vi/aW5N2bSusa0/hqdefault.jpg)](https://www.youtube.com/watch?v=aW5N2bSusa0) |[![ Podcast 23](https://img.youtube.com/vi/QEZXfIKu7fo/hqdefault.jpg)](https://www.youtube.com/watch?v=QEZXfIKu7fo) |[![ Podcast 24](https://img.youtube.com/vi/o3ca-UdsLkI/hqdefault.jpg)](https://www.youtube.com/watch?v=o3ca-UdsLkI) |
 |:---:|:---:|:---:|
 | **Podcast 22: La BASE DE DATOS de Santa Claus: Modelo Entidad-Relación (MER)** |**Podcast 23: ¿Qué es un SISTEMA OPERATIVO y cómo elegir el mejor?** |**Podcast 24: Guía Definitiva de PUERTOS DE CONEXIÓN: ¡No te equivoques más!** |
+
+|[![ Podcast 25](https://img.youtube.com/vi/o6RerbkpUvk/hqdefault.jpg)](https://www.youtube.com/watch?v=o6RerbkpUvk) |
+|:---:|
+| **Podcast 25: ¿SITIO WEB o PÁGINA WEB? 🌐 Diferencias, Usos y Funciones** |
 ---
 
 ### Practicas en Word:
