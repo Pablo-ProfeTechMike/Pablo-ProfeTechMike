@@ -100,9 +100,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 | **Podcast 22: La BASE DE DATOS de Santa Claus: Modelo Entidad-Relación (MER)** |**Podcast 23: ¿Qué es un SISTEMA OPERATIVO y cómo elegir el mejor?** |**Podcast 24: Guía Definitiva de PUERTOS DE CONEXIÓN: ¡No te equivoques más!** |
 
-|[![ Podcast 25](https://img.youtube.com/vi/o6RerbkpUvk/hqdefault.jpg)](https://www.youtube.com/watch?v=o6RerbkpUvk) |[![ Podcast 26](https://img.youtube.com/vi/HEPhlcEHcv4/hqdefault.jpg)](https://www.youtube.com/watch?v=HEPhlcEHcv4) |
-|:---:|:---:|
-| **Podcast 25: ¿SITIO WEB o PÁGINA WEB? 🌐 Diferencias, Usos y Funciones** |**Podcast 26: San Valentín Matemático: ¿Cómo calcular el AMOR con la REGLA DE 3? ❤️📏** |
+|[![ Podcast 25](https://img.youtube.com/vi/o6RerbkpUvk/hqdefault.jpg)](https://www.youtube.com/watch?v=o6RerbkpUvk) |[![ Podcast 26](https://img.youtube.com/vi/HEPhlcEHcv4/hqdefault.jpg)](https://www.youtube.com/watch?v=HEPhlcEHcv4) |[![ Podcast 27](https://img.youtube.com/vi/Gqc_f65oZ4Q/hqdefault.jpg)](https://www.youtube.com/watch?v=Gqc_f65oZ4Q) |
+|:---:|:---:|:---:|
+| **Podcast 25: ¿SITIO WEB o PÁGINA WEB? 🌐 Diferencias, Usos y Funciones** |**Podcast 26: San Valentín Matemático: ¿Cómo calcular el AMOR con la REGLA DE 3? ❤️📏** | **Podcast 27: ¿Tu conexión es SEGURA? 🔐 HTTP vs HTTPS: Todo lo que debes saber** |
 ---
 
 ### Practicas en Word:
@@ -182,9 +182,9 @@ Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas
 |:---:|:---:|:---:|
 |**Ejercicio 25 en Excel** |**Ejercicio 26 en Excel** |**Ejercicio 27 en Excel** |
 
-| [![ Ejercicio 28 ](https://img.youtube.com/vi/zDJ3TAxadLQ/hqdefault.jpg)](https://www.youtube.com/watch?v=zDJ3TAxadLQ) |
-|:---:|
-|**Ejercicio 28 en Excel** |
+| [![ Ejercicio 28 ](https://img.youtube.com/vi/zDJ3TAxadLQ/hqdefault.jpg)](https://www.youtube.com/watch?v=zDJ3TAxadLQ) |[![ Ejercicio 29](https://img.youtube.com/vi/e6nrgQnOzRw/hqdefault.jpg)](https://www.youtube.com/watch?v=e6nrgQnOzRw) |
+|:---:|:---:|
+|**Ejercicio 28 en Excel** |**Ejercicio 29 en Excel** |
 ---
 
 ### PROYECTOS Y PROPUESTAS:
