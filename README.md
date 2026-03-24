@@ -1,208 +1,141 @@
-# <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=ecf05e476o81hxpw9txenqhe36aen937e2xjq55acwutvbzy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">¡Bienvenidos a ProfeTechMike! Tu espacio para aprender tecnología, programación y mucho más.
+<h1 align="center">
+Hi, I'm Pablo Adrián
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlwY3RpdDNwdnBmdXBrcXFldmY4YmhzNjdzbGI0ZTl4dGhtdWF6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/11dm0zLmX6YYc8/giphy.gif" width="30"></h1>
+ <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
+ <img src="Profe-removebg-preview.png" alt="Profile views" height="110" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+<br/>
 
-![Banner de Pablo-ProfeTechMike](class.png)
-
-<div id="badges">
-  <a href="https://www.youtube.com/@ProfeTechMike" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://www.tiktok.com/@profetechmike?_t=8rMy6z2pUgi&_r=1" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
-  </a>
-  <a href="https://www.twitch.tv/profetechmike" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pablo-adri%C3%A1n-herrera-amieva-a86117184/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/people/Profetechmike/61577086169921/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://pablo-profetechmike.github.io/Portafolio.github.io-main/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Badge"/>
-  </a>
-</div>
-
-Mi objetivo es ofrecerte tutoriales prácticos, tips útiles y clases dinámicas que te inspiren a dominar herramientas tecnológicas y resolver problemas de manera eficiente. ¡Aquí siempre encontrarás un lugar para crecer y sentirte apoyado!
-¡Únete y descubre lo que podemos lograr juntos!
-
-
-### Habilidades
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg}"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3p0NGRtdDRtejJ2ZnM2azdocWpqOTg2cHFzNWZsbzcyeHlpc2t2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10RgZyfaX0HBSg/giphy.gif" height="110"></a>
 </p>
 
-# Mira mi Canal de YouTube 🎥
+<img align="left" src="avatar.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="240" />
+<hr>
 
-### Suscríbete y no te pierdas el contenido:
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ProfeTechMike)
+```
+I-am-Pablo Adrián Herrera Amieva
+-------------------------
+💻 Soy Ingeniero en Sistemas Computacionales.
+🛜 Soy Freelance: Desarrollador de Software | Profesor Jr. | IA
+📝 Titulado en Técnico en Programacion.
+💻 Titulado en Ingenieria en Sistemas Computacionales.
+🧑🏽‍💻 Manejo de soporte técnico, ciberseguridad, instalación de software.
+🌟 Front-End: HTML, CSS,JavaScript, Rect JS, Boostraps, JQuery, IA.
+🌟 Back-End: PHP, MYSQL, C++, JAVA, Node Js, Python.
+🤖 Robótica: Arduino.
+🔰 Microsoft Office: Word, Excel, PowerPoint.
+🖥️ Creador de ProfeTechmike.
+🛜 Tutoriales: Ofimática, Matemáticas, Programacion, Base de Datos y Robótica.
+```
+<hr>
 
-### Video Destacado:
-[![Video Destacado](https://img.youtube.com/vi/iyNsQxgWHXA/hqdefault.jpg)](https://www.youtube.com/watch?v=iyNsQxgWHXA)
 
-> Haz clic en la imagen para ver el video directamente en YouTube.
+## 🛠️ My Favorite Tools
 
----
+### 👨‍💻 Programming Languages
 
-### Curso de Word:
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
-| [![ Introducción a Word](https://img.youtube.com/vi/uINpZXotQIw/hqdefault.jpg)](https://www.youtube.com/watch?v=uINpZXotQIw) | [![Explorando Word: Herramientas, Estilos y Plantillas](https://img.youtube.com/vi/0Pl8Qka_jTk/hqdefault.jpg)](https://www.youtube.com/watch?v=0Pl8Qka_jTk) | [![Trabajando con la pestaña "Insertar" en Word](https://img.youtube.com/vi/sk-f2-tZXVM/hqdefault.jpg)](https://www.youtube.com/watch?v=sk-f2-tZXVM) |
-|:---:|:---:|:---:|
-| **Introducción a Word** | **Explorando Word: Herramientas, Estilos y Plantillas** | **Trabajando con la pestaña "Insertar" en Word** |
+### 🧰 Frameworks and Libraries
 
-| [![¡Haz magia con texto y símbolos en Word!](https://img.youtube.com/vi/utr4SaP7qYI/hqdefault.jpg)](https://www.youtube.com/watch?v=utr4SaP7qYI) | [![ Descubre la Pestaña Dibujar y Todas las Herramientas de Word](https://img.youtube.com/vi/lWxFhdT4K40/hqdefault.jpg)](https://www.youtube.com/watch?v=lWxFhdT4K40) | [![ Explorando la Pestaña Diseño: ¡Herramientas que Transforman tus Ideas!](https://img.youtube.com/vi/8Esva6kBac4/hqdefault.jpg)](https://www.youtube.com/watch?v=8Esva6kBac4) |
-|:---:|:---:|:---:|
-| **¡Haz magia con texto y símbolos en Word!** |**Descubre la Pestaña Dibujar y Todas las Herramientas de Word** |**Explorando la Pestaña Diseño: ¡Herramientas que Transforman tus Ideas!** |
+<p>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
 
-| [![Todo sobre la pestaña Disposición en Word 📑](https://img.youtube.com/vi/3IRHMbUh0zg/hqdefault.jpg)](https://www.youtube.com/watch?v=3IRHMbUh0zg) | [![ Explorando la pestaña de Referencia y sus herramientas en Word](https://img.youtube.com/vi/r6tGAQVQvHM/hqdefault.jpg)](https://www.youtube.com/watch?v=r6tGAQVQvHM) |  [![Explorando la pestaña Revisar y sus herramientas en Word](https://img.youtube.com/vi/DflNEcIOIbI/hqdefault.jpg)](https://www.youtube.com/watch?v=DflNEcIOIbI) |
-|:---:|:---:|:---:|
-| **Todo sobre la pestaña Disposición en Word 📑** |**Explorando la pestaña de Referencia y sus herramientas en Word** |**Explorando la pestaña Revisar y sus herramientas en Word** |
+</p>
 
-| [![Explorando la pestaña Vista y sus herramientas. ¿Qué secretos descubriremos hoy? 👀✨](https://img.youtube.com/vi/z0TyB3oT8To/hqdefault.jpg)](https://www.youtube.com/watch?v=z0TyB3oT8To) |
-|:---:|
-| **Explorando la pestaña Vista y sus herramientas. ¿Qué secretos descubriremos hoy? 👀✨** |
+### 🗄️ Databases and Cloud Hosting
 
----
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+</p>
 
-### Podcast:
+### 💻 Software and Tools
 
-| [![ Podcast: Evaluación vs. Calificación + Problema de Experiencia Laboral](https://img.youtube.com/vi/fVyXsZCd7do/hqdefault.jpg)](https://www.youtube.com/watch?v=fVyXsZCd7do) | [![ Podcast: Evaluación vs. Calificación + Problema de Experiencia Laboral](https://img.youtube.com/vi/YyR78xQBdDk/hqdefault.jpg)](https://www.youtube.com/watch?v=YyR78xQBdDk) |[![ ¿Te pueden hackear? Descubre cómo protegerte en Internet](https://img.youtube.com/vi/jr4fKkp7Q2w/hqdefault.jpg)](https://www.youtube.com/watch?v=jr4fKkp7Q2w) |
-|:---:|:---:|:---:|
-| **Podcast: Evaluación vs. Calificación + Problema de Experiencia Laboral** |**Podcast 2: ¿Cómo tener experiencia si no te dan la oportunidad** |**Podcast 3: ¿Te pueden hackear? Descubre cómo protegerte en Internet** |
+<p>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
 
-|[![ 🎙️ Freelancer vs. Oficina: ¿Cuál es el mejor trabajo? 💻🏢](https://img.youtube.com/vi/z1lhRuQaDSw/hqdefault.jpg)](https://www.youtube.com/watch?v=z1lhRuQaDSw) |[![ El Manejo de la Memoria RAM](https://img.youtube.com/vi/PfghrlYeZwg/hqdefault.jpg)](https://www.youtube.com/watch?v=PfghrlYeZwg) |[![ 🎙️ Podcast 6: Tarjeta Madre](https://img.youtube.com/vi/tAaHvkNruZ8/hqdefault.jpg)](https://www.youtube.com/watch?v=tAaHvkNruZ8) |
-|:---:|:---:|:---:|
-| **Podcast 4: 🎙️ Freelancer vs. Oficina: ¿Cuál es el mejor trabajo? 💻🏢** |**Podcast 5: El Manejo de la Memoria RAM** |**Podcast 6: Tarjeta Madre** |
+### 👨🏽‍💻 Workspace
+<p>
+    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+</p>
 
-|[![ Podcast 7](https://img.youtube.com/vi/nhwZ1n-v4x4/hqdefault.jpg)](https://www.youtube.com/watch?v=nhwZ1n-v4x4) |[![ Podcast 8](https://img.youtube.com/vi/BK5l_PFppNE/hqdefault.jpg)](https://www.youtube.com/watch?v=BK5l_PFppNE) |[![ Podcast 9](https://img.youtube.com/vi/p1SkThBl0-s/hqdefault.jpg)](https://www.youtube.com/watch?v=p1SkThBl0-s) |
-|:---:|:---:|:---:|
-| **Podcast 7: HDD vs SSD 🔥** |**Podcast 8: ¿Qué es Hardware y Software?** |**Podcast 9: Targeta Grafica** |
 
-|[![ Podcast 10](https://img.youtube.com/vi/ttsWVy6nBpM/hqdefault.jpg)](https://www.youtube.com/watch?v=ttsWVy6nBpM) |[![ Podcast 11](https://img.youtube.com/vi/o4QeCu0Qgb0/hqdefault.jpg)](https://www.youtube.com/watch?v=o4QeCu0Qgb0) |[![ Podcast 12](https://img.youtube.com/vi/J-CEjA1_sHY/hqdefault.jpg)](https://www.youtube.com/watch?v=J-CEjA1_sHY) |
-|:---:|:---:|:---:|
-| **Podcast 10: Adiós Windows 10 😢 + Explicando Diagrama de Clases UML 👨‍🏫** |**Podcast 11: ¿2.4 GHz o 5 GHz? 🔥 ¿Cuál es mejor para ti?** |**Podcast 12: ¿Sabías que XML aún se usa en muchas aplicaciones actuales?** |
+## GitHub Stats
 
-|[![ Podcast 13](https://img.youtube.com/vi/uCqKrN92XLk/hqdefault.jpg)](https://www.youtube.com/watch?v=uCqKrN92XLk) |[![ Podcast 14](https://img.youtube.com/vi/a3qhvU7pXZE/hqdefault.jpg)](https://www.youtube.com/watch?v=a3qhvU7pXZE) |[![ Podcast 15](https://img.youtube.com/vi/ityzkW7Q0qY/hqdefault.jpg)](https://www.youtube.com/watch?v=ityzkW7Q0qY) |
-|:---:|:---:|:---:|
-| **Podcast 13: Dispositivos de Almacenamiento** |**Podcast 14: ¿Contratamos hojas de papel o talento real?** |**Podcast 15: ¿Qué son los DRIVERS o CONTROLADORES en tu PC?** |
 
-|[![ Podcast 16](https://img.youtube.com/vi/FkMHkvYxLO4/hqdefault.jpg)](https://www.youtube.com/watch?v=FkMHkvYxLO4) |[![ Podcast 17](https://img.youtube.com/vi/1K-jmRR_dW4/hqdefault.jpg)](https://www.youtube.com/watch?v=1K-jmRR_dW4) |[![ Podcast 18](https://img.youtube.com/vi/2jtoUL_USFs/hqdefault.jpg)](https://www.youtube.com/watch?v=2jtoUL_USFs) |
-|:---:|:---:|:---:|
-| **Podcast 16: Impresoras: Definición, Función y Tipos** |**Podcast 17: Recursos Humanos** |**Podcast 18:  ¿Por qué tu PORTFOLIO WEB puede cambiarlo TODO?** |
+|                                                                     Vishal's Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
+| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
+| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
+    
 
-|[![ Podcast 19](https://img.youtube.com/vi/EdCn9xJnrb0/hqdefault.jpg)](https://www.youtube.com/watch?v=EdCn9xJnrb0) |[![ Podcast 20](https://img.youtube.com/vi/QJajE5oK_qY/hqdefault.jpg)](https://www.youtube.com/watch?v=QJajE5oK_qY) |[![ Podcast 21](https://img.youtube.com/vi/v27hXdQlU3w/hqdefault.jpg)](https://www.youtube.com/watch?v=v27hXdQlU3w) |
-|:---:|:---:|:---:|
-| **Podcast 19: Procesadores de Computadora Intel vs Ryzen** |**Podcast 20: Experiencial laboral vs Experiencia Profesional** |**Podcast 21:  ¿Qué COMPUTADORA comprar en 2025? Guía según tu presupuesto 💻🚀** |
+|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
 
-|[![ Podcast 22](https://img.youtube.com/vi/aW5N2bSusa0/hqdefault.jpg)](https://www.youtube.com/watch?v=aW5N2bSusa0) |[![ Podcast 23](https://img.youtube.com/vi/QEZXfIKu7fo/hqdefault.jpg)](https://www.youtube.com/watch?v=QEZXfIKu7fo) |[![ Podcast 24](https://img.youtube.com/vi/o3ca-UdsLkI/hqdefault.jpg)](https://www.youtube.com/watch?v=o3ca-UdsLkI) |
-|:---:|:---:|:---:|
-| **Podcast 22: La BASE DE DATOS de Santa Claus: Modelo Entidad-Relación (MER)** |**Podcast 23: ¿Qué es un SISTEMA OPERATIVO y cómo elegir el mejor?** |**Podcast 24: Guía Definitiva de PUERTOS DE CONEXIÓN: ¡No te equivoques más!** |
 
-|[![ Podcast 25](https://img.youtube.com/vi/o6RerbkpUvk/hqdefault.jpg)](https://www.youtube.com/watch?v=o6RerbkpUvk) |[![ Podcast 26](https://img.youtube.com/vi/HEPhlcEHcv4/hqdefault.jpg)](https://www.youtube.com/watch?v=HEPhlcEHcv4) |[![ Podcast 27](https://img.youtube.com/vi/Gqc_f65oZ4Q/hqdefault.jpg)](https://www.youtube.com/watch?v=Gqc_f65oZ4Q) |
-|:---:|:---:|:---:|
-| **Podcast 25: ¿SITIO WEB o PÁGINA WEB? 🌐 Diferencias, Usos y Funciones** |**Podcast 26: San Valentín Matemático: ¿Cómo calcular el AMOR con la REGLA DE 3? ❤️📏** | **Podcast 27: ¿Tu conexión es SEGURA? 🔐 HTTP vs HTTPS: Todo lo que debes saber** |
----
 
-### Practicas en Word:
 
-| [![ Iniciando las Practicas 1, 2 y 3](https://img.youtube.com/vi/bCmDa08J5GE/hqdefault.jpg)](https://www.youtube.com/watch?v=bCmDa08J5GE) | [![ Iniciando las Practicas 4, 5 y 6](https://img.youtube.com/vi/ugDw7DkLBWI/hqdefault.jpg)](https://www.youtube.com/watch?v=ugDw7DkLBWI) | [![ Iniciando las Practicas 7, 8 y 9](https://img.youtube.com/vi/Rr4fQsVSozk/hqdefault.jpg)](https://www.youtube.com/watch?v=Rr4fQsVSozk) |
-|:---:|:---:|:---:|
-| **Iniciando las Practicas 1, 2 y 3** |**Ejercicios prácticos 4, 5 y 6** |**Ejercicios prácticos 7, 8 y 9**|
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
 
-| [![ Ejercicios practicos 10 y 11 en Word](https://img.youtube.com/vi/BqGYQRJFQ6U/hqdefault.jpg)](https://www.youtube.com/watch?v=BqGYQRJFQ6U) |[![ Ejercicios practicos 10 y 11 en Word](https://img.youtube.com/vi/9zbhpSTc6Zo/hqdefault.jpg)](https://www.youtube.com/watch?v=9zbhpSTc6Zo) |[![ Ejercicios practicos 10 y 11 en Word](https://img.youtube.com/vi/ykrewH3XtyA/hqdefault.jpg)](https://www.youtube.com/watch?v=ykrewH3XtyA) |
-|:---:|:---:|:---:|
-| **Ejercicios practicos 10 y 11 en Word** |**Ejercicio practico 12 en Word** |**Ejercicios practicos 13 y 14 en Word** |
+## Let's Work on Your Project Together!
 
-| [![ Ejercicios practicos 15 en Word](https://img.youtube.com/vi/f3H40ogWiPY/hqdefault.jpg)](https://www.youtube.com/watch?v=f3H40ogWiPY) |[![ Ejercicios practicos 16 en Word](https://img.youtube.com/vi/Ipxvi_FgC7Q/hqdefault.jpg)](https://www.youtube.com/watch?v=Ipxvi_FgC7Q) |[![ Ejercicios practicos 17 en Word](https://img.youtube.com/vi/jVFCX1mJ5Xc/hqdefault.jpg)](https://www.youtube.com/watch?v=jVFCX1mJ5Xc)
-|:---:|:---:|:---:|
-| **Ejercicio practico 15 en Word** |**Ejercicio practico 16 en Word** |**Ejercicio practico 17 en Word** |
+If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
 
-| [![ Ejercicios practicos 18 en Word](https://img.youtube.com/vi/hy_OZy5Py54/hqdefault.jpg)](https://www.youtube.com/watch?v=hy_OZy5Py54) | [![ Ejercicios practicos 19 en Word](https://img.youtube.com/vi/ZI1e2DnXGmo/hqdefault.jpg)](https://www.youtube.com/watch?v=ZI1e2DnXGmo) | [![ Ejercicios practicos 20 en Word](https://img.youtube.com/vi/pM9JPS0rpwA/hqdefault.jpg)](https://www.youtube.com/watch?v=pM9JPS0rpwA) |
-|:---:|:---:|:---:|
-| **Ejercicio practico 18 en Word** |**Ejercicio practico 19 en Word** |**Ejercicio practico 20 en Word** |
+You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
 
-| [![ Ejercicios practicos 21 en Word](https://img.youtube.com/vi/bOkb1nUCbS0/hqdefault.jpg)](https://www.youtube.com/watch?v=bOkb1nUCbS0) |[![ Ejercicios practicos 22 en Word](https://img.youtube.com/vi/FTo_1WGg9rE/hqdefault.jpg)](https://www.youtube.com/watch?v=FTo_1WGg9rE) |
-|:---:|:---:|
-| **Ejercicio practico 21 en Word** |**Ejercicio practico 22 en Word** |
----
+  </td>
+  <td width="50%" valign="top">
 
-### Cursos en Excel:
+## It's not perfect, isn't it?
 
-| [![ Iniciando el curso Microsoft Excel ](https://img.youtube.com/vi/WrkUqkOb8Qs/hqdefault.jpg)](https://www.youtube.com/watch?v=WrkUqkOb8Qs) |[![  Conoce el interior de Microsoft Excel ](https://img.youtube.com/vi/bRE4aTcMDDI/hqdefault.jpg)](https://www.youtube.com/watch?v=bRE4aTcMDDI) | [![ 🧠 Domina la Pestaña de INICIO en Excel: ¡Aprende para qué sirve cada herramienta!](https://img.youtube.com/vi/gE6wWswadjA/hqdefault.jpg)](https://www.youtube.com/watch?v=gE6wWswadjA) |
-|:---:|:---:|:---:|
-| **Inciando el curso Microsoft Excel** |**Conoce el interior de Microsoft Excel** |**Pestaña Inicio en Excel** |
+**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-| [![ Pestaña Insertar en Excel ](https://img.youtube.com/vi/tAKvTSeZebY/hqdefault.jpg)](https://www.youtube.com/watch?v=tAKvTSeZebY) |[![ Aprende la Pestaña Disposición de Página en Excel ](https://img.youtube.com/vi/XZogPdK8-9E/hqdefault.jpg)](https://www.youtube.com/watch?v=XZogPdK8-9E) |[![ Aprende la Pestaña Formulas en Excel ](https://img.youtube.com/vi/WpDHZduKkXY/hqdefault.jpg)](https://www.youtube.com/watch?v=WpDHZduKkXY) |
-|:---:|:---:|:---:|
-| **Pestaña Insertar en Excel** | **Pestaña Disposición de Página en Excel** | **Pestaña Formulas en Excel** |
+“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+– Elon Musk
 
-| [![ Pestaña Datos en Excel ](https://img.youtube.com/vi/q_GVHx5QMjM/hqdefault.jpg)](https://www.youtube.com/watch?v=q_GVHx5QMjM) |[![ Pestaña Datos en Excel ](https://img.youtube.com/vi/GdbIt5g0o5k/hqdefault.jpg)](https://www.youtube.com/watch?v=GdbIt5g0o5k) |[![ Pestaña Datos en Excel ](https://img.youtube.com/vi/9ecbNATTzJ8/hqdefault.jpg)](https://www.youtube.com/watch?v=9ecbNATTzJ8) |
-|:---:|:---:|:---:|
-| **Pestaña Datos en Excel** |**Pestaña Revisar en Excel** |**Pestaña Vista en Excel** |
+  </td>
+  </tr>
+</table>
 
----
+------
+Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
+Last Edited On: 18/04/2022
 
-### Ejercicios Formularios:
 
-| [![ Ejercicio 1 ](https://img.youtube.com/vi/o1RaA07PqpE/hqdefault.jpg)](https://www.youtube.com/watch?v=o1RaA07PqpE) |[![ Ejercicio 2 ](https://img.youtube.com/vi/romVKqZWa0c/hqdefault.jpg)](https://www.youtube.com/watch?v=romVKqZWa0c) |[![ Ejercicio 3 ](https://img.youtube.com/vi/2ZSO5D_myLQ/hqdefault.jpg)](https://www.youtube.com/watch?v=2ZSO5D_myLQ) |
-|:---:|:---:|:---:|
-| **Ejercicio 1 en Excel** |**Ejercicio 2 en Excel** |**Ejercicio 3 en Excel** |
 
-| [![ Ejercicio 4 ](https://img.youtube.com/vi/dQUQHbNbZas/hqdefault.jpg)](https://www.youtube.com/watch?v=dQUQHbNbZas) |[![ Ejercicio 5 ](https://img.youtube.com/vi/Tvd43EwiTrk/hqdefault.jpg)](https://www.youtube.com/watch?v=Tvd43EwiTrk) | [![ Ejercicio 6 ](https://img.youtube.com/vi/HxLqkR0J-0Y/hqdefault.jpg)](https://www.youtube.com/watch?v=HxLqkR0J-0Y) |
-|:---:|:---:|:---:|
-| **Ejercicio 4 en Excel** |**Ejercicio 5 en Excel** |**Ejercicio 6 en Excel** |
-
-| [![ Ejercicio 7 ](https://img.youtube.com/vi/kqnsSkaGBsE/hqdefault.jpg)](https://www.youtube.com/watch?v=kqnsSkaGBsE) |[![ Ejercicio 8 ](https://img.youtube.com/vi/Y2ubXHEvGIs/hqdefault.jpg)](https://www.youtube.com/watch?v=Y2ubXHEvGIs) | [![ Ejercicio 9 ](https://img.youtube.com/vi/2Xs84pHcVpg/hqdefault.jpg)](https://www.youtube.com/watch?v=2Xs84pHcVpg) |
-|:---:|:---:|:---:|
-| **Ejercicio 7 en Excel** |**Ejercicio 8 en Excel** |**Ejercicio 9 en Excel** |
-
-| [![ Ejercicio 10 ](https://img.youtube.com/vi/5KrWGZRRqUw/hqdefault.jpg)](https://www.youtube.com/watch?v=5KrWGZRRqUw) |[![ Ejercicio 11 ](https://img.youtube.com/vi/ze_MpMlaKDU/hqdefault.jpg)](https://www.youtube.com/watch?v=ze_MpMlaKDU) | [![ Ejercicio 11 ](https://img.youtube.com/vi/Uayzm8pRghA/hqdefault.jpg)](https://www.youtube.com/watch?v=ze_Uayzm8pRghA) | 
-|:---:|:---:|:---:|
-| **Ejercicio 10 en Excel** |**Ejercicio 11 en Excel** |**Ejercicio 12 en Excel** |
-
-| [![ Ejercicio 13 ](https://img.youtube.com/vi/LASA1L14IoU/hqdefault.jpg)](https://www.youtube.com/watch?v=LASA1L14IoU) |[![ Ejercicio 14 ](https://img.youtube.com/vi/d-MHM2df754/hqdefault.jpg)](https://www.youtube.com/watch?v=d-MHM2df754) |[![ Ejercicio 15 ](https://img.youtube.com/vi/Cg8DH1_06eE/hqdefault.jpg)](https://www.youtube.com/watch?v=Cg8DH1_06eE) |
-|:---:|:---:|:---:|
-| **Ejercicio 13 en Excel** |**Ejercicio 14 en Excel** |**Ejercicio 15 en Excel** |
-
-| [![ Ejercicio 16 ](https://img.youtube.com/vi/INbhqW1aPVY/hqdefault.jpg)](https://www.youtube.com/watch?v=INbhqW1aPVY) |[![ Ejercicio 17 ](https://img.youtube.com/vi/2glNsw1aMCg/hqdefault.jpg)](https://www.youtube.com/watch?v=2glNsw1aMCg) |  [![ Ejercicio 16 ](https://img.youtube.com/vi/_eONku6imwk/hqdefault.jpg)](https://www.youtube.com/watch?v=_eONku6imwk) |
-|:---:|:---:|:---:|
-| **Ejercicio 16 en Excel** |**Ejercicio 17 en Excel** |**Ejercicio 18 en Excel** |
-
-| [![ Ejercicio 19 ](https://img.youtube.com/vi/NT50xdW6pV4/hqdefault.jpg)](https://www.youtube.com/watch?v=NT50xdW6pV4) |  [![ Ejercicio 20 ](https://img.youtube.com/vi/EFAZbMafnXY/hqdefault.jpg)](https://www.youtube.com/watch?v=EFAZbMafnXY) | [![ Ejercicio 21 ](https://img.youtube.com/vi/zx3emSjvmw0/hqdefault.jpg)](https://www.youtube.com/watch?v=zx3emSjvmw0) |
-|:---:|:---:|:---:|
-|**Ejercicio 19 en Excel** |**Ejercicio 20 en Excel** |**Ejercicio 21 en Excel** |
-
-| [![ Ejercicio 22 ](https://img.youtube.com/vi/6lyv96cSQfE/hqdefault.jpg)](https://www.youtube.com/watch?v=6lyv96cSQfE) |  [![ Ejercicio 23 ](https://img.youtube.com/vi/zNa7YvlxAmM/hqdefault.jpg)](https://www.youtube.com/watch?v=zNa7YvlxAmM) | [![ Ejercicio 24 ](https://img.youtube.com/vi/GHY6s2pKCrw/hqdefault.jpg)](https://www.youtube.com/watch?v=GHY6s2pKCrw) | 
-|:---:|:---:|:---:|
-|**Ejercicio 22 en Excel** |**Ejercicio 23 en Excel** |**Ejercicio 24 en Excel** |
-
-| [![ Ejercicio 25 ](https://img.youtube.com/vi/bQ0q7hc9hcY/hqdefault.jpg)](https://www.youtube.com/watch?v=bQ0q7hc9hcY) |[![ Ejercicio 26 ](https://img.youtube.com/vi/PF6O9AVOBGE/hqdefault.jpg)](https://www.youtube.com/watch?v=PF6O9AVOBGE) |[![ Ejercicio 27 ](https://img.youtube.com/vi/U99VRHTvG-k/hqdefault.jpg)](https://www.youtube.com/watch?v=U99VRHTvG-k) |
-|:---:|:---:|:---:|
-|**Ejercicio 25 en Excel** |**Ejercicio 26 en Excel** |**Ejercicio 27 en Excel** |
-
-| [![ Ejercicio 28 ](https://img.youtube.com/vi/zDJ3TAxadLQ/hqdefault.jpg)](https://www.youtube.com/watch?v=zDJ3TAxadLQ) |[![ Ejercicio 29](https://img.youtube.com/vi/e6nrgQnOzRw/hqdefault.jpg)](https://www.youtube.com/watch?v=e6nrgQnOzRw) |
-|:---:|:---:|
-|**Ejercicio 28 en Excel** |**Ejercicio 29 en Excel** |
----
-
-### PROYECTOS Y PROPUESTAS:
-
-| [![ Calculadora de Evaluación en Java ](https://img.youtube.com/vi/9LK9k8GGqj4/hqdefault.jpg)](https://www.youtube.com/watch?v=9LK9k8GGqj4) |[![ Calculadora Binaria ](https://img.youtube.com/vi/Q5aWI7w72YU/hqdefault.jpg)](https://www.youtube.com/watch?v=Q5aWI7w72YU) |[![ Calculadora Pitagoras ](https://img.youtube.com/vi/LTydM8ViQI8/hqdefault.jpg)](https://www.youtube.com/watch?v=LTydM8ViQI8) |
-|:---:|:---:|:---:|
-| **Calculadora de Evaluación en Java** | **Calculadora Binaria** | **Calculadora Pitagoras** |
-
-| [![ Alarma de Batería ](https://img.youtube.com/vi/VNOfb1rBy20/hqdefault.jpg)](https://www.youtube.com/watch?v=VNOfb1rBy20) |[![ Calculadora Hallar un lado ](https://img.youtube.com/vi/erF72a3TFW0/hqdefault.jpg)](https://www.youtube.com/watch?v=erF72a3TFW0) |[![ Ecuaciones ](https://img.youtube.com/vi/dJ6U9vBlOKI/hqdefault.jpg)](https://www.youtube.com/watch?v=dJ6U9vBlOKI) |
-|:---:|:---:|:---:|
-| **Alarma de Batería** |**Calculadora Hallar un lado** |**Calculadora de Ecuaciones** |
-
-| [![App en JAVA: Resuelve SISTEMAS DE ECUACIONES (2x2 y 3x3) ](https://img.youtube.com/vi/TO13tdwYOo8/hqdefault.jpg)](https://www.youtube.com/watch?v=TO13tdwYOo8) |
-|:---:|
-| **App en JAVA: Resuelve SISTEMAS DE ECUACIONES (2x2 y 3x3)** |
-
-| [![ Propuesta 1 ](https://img.youtube.com/vi/79887ww1Tis/hqdefault.jpg)](https://www.youtube.com/watch?v=79887ww1Tis) | [![ Propuesta 2 ](https://img.youtube.com/vi/W-YyHk59eeM/hqdefault.jpg)](https://www.youtube.com/watch?v=W-YyHk59eeM) | [![ Propuesta 3 ](https://img.youtube.com/vi/Xx6fgqiEKSU/hqdefault.jpg)](https://www.youtube.com/watch?v=Xx6fgqiEKSU) |
-|:---:|:---:|:---:|
-|**Propuesta 1** |**Propuesta 2** |**Propuesta 3** |
-
-¡Gracias por tu apoyo! 🎉
