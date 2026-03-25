@@ -133,8 +133,6 @@ I-am-Pablo Adrián Herrera Amieva
 |:---:|
 | ![Gráfica de Actividad](https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&theme=algolia) |
 | ![Racha de Commits](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=algolia) |
-| ![Estadísticas de DenverCoder1](https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&theme=algolia) |
-| ![Racha de Commits](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=algolia) |
 
 
 | Mis Estrellas Totales | Lenguajes más Usados |
