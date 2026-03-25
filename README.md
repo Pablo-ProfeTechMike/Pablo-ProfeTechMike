@@ -83,27 +83,57 @@ I-am-Pablo Adrián Herrera Amieva
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-### 👨🏽‍💻 Workspace
+### 🛠️ Soporte e Instalación
 <p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+soporte"><img alt="Soporte Técnico" src="https://img.shields.io/badge/Soporte%20Técnico-%234E5D6C.svg?logo=helpdesk&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+instalacion"><img alt="Instalación de Software" src="https://img.shields.io/badge/Instalación%20de%20Software-%234CAF50.svg?logo=appveyor&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+robotica"><img alt="Robótica" src="https://img.shields.io/badge/Robótica-%236E6E6E.svg?logo=robotframework&logoColor=white"></a>
 </p>
+
+### 🎨 Diseño y Multimedia
+<p>
+<a href="https://github.com/search?q=user%3ADenverCoder1+videos"><img alt="Creación de Videos" src="https://img.shields.io/badge/Creación%20de%20Videos-%23EA4335.svg?logo=youtube&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+logos"><img alt="Diseño de Logos e Imágenes" src="https://img.shields.io/badge/Diseño%20Gráfico-%2331A8FF.svg?logo=adobe-photoshop&logoColor=white"></a>
+</p>
+
+### 🌐 Desarrollo Web y Aplicaciones
+<p>
+<a href="https://github.com/search?q=user%3ADenverCoder1+web"><img alt="Páginas Web" src="https://img.shields.io/badge/Páginas%20Web-%23E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+webapps"><img alt="Apps Web" src="https://img.shields.io/badge/Web%20Apps-%2361DAFB.svg?logo=react&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+exe"><img alt="Aplicaciones EXE" src="https://img.shields.io/badge/Apps%20Desktop%20(.exe)-%230078D4.svg?logo=windows&logoColor=white"></a>
+</p>
+
+### 📊 Ofimática y Datos
+<p>
+<a href="https://github.com/search?q=user%3ADenverCoder1+excel"><img alt="Excel y Macros" src="https://img.shields.io/badge/Excel%20%26%20Macros-%23217346.svg?logo=microsoft-excel&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+formularios"><img alt="Formularios" src="https://img.shields.io/badge/Formularios%20y%20Captura-%2300A4EF.svg?logo=google-forms&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+documentos"><img alt="Documentos" src="https://img.shields.io/badge/Creación%20de%20Documentos-%232B579A.svg?logo=microsoft-word&logoColor=white"></a>
+</p>
+
+### 💻 Redes Sociales
+<p>
+<a href="https://github.com/search?q=user%3ADenverCoder1+twitch"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+tiktok"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+facebook"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+instagram"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"></a>
+</p>
+
+### 🔗 Portafolio-Web
+<p>
+<a href="https://github.com/search?q=user%3ADenverCoder1+web"><img alt="Web" src="https://img.shields.io/badge/Web-%234285F4.svg?logo=google-chrome&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+github"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"></a>
+</p>
+
 
 
 ## GitHub Stats
 
-
-|                                                                     Vishal's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
-    
-
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
-
+| Mi Actividad en GitHub |
+|:---:|
+| ![Gráfica de Actividad](https://activity-graph.herokuapp.com/graph?username=DenverCoder1&theme=react-dark&hide_border=true&area=true) |
+| ![Estadísticas de DenverCoder1](https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&theme=algolia) |
+| ![Racha de Commits](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=algolia) |
 
 
 
