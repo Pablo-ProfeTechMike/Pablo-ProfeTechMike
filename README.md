@@ -68,6 +68,19 @@ I-am-Pablo Adrián Herrera Amieva
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aarduino"><img alt="Arduino" src="https://img.shields.io/badge/Arduino%20-%2300979D.svg?logo=arduino&logoColor=white"></a>
 </p>
 
+### 🤖 IA
+<p>
+<a href="https://github.com/search?q=user%3ADenverCoder1+chatgpt" target="_blank">
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-%2374aa9c?logo=openai&logoColor=white">
+</a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+gemini" target="_blank">
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-%238E75C2.svg?logo=googlegemini&logoColor=white">
+</a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+claude" target="_blank">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude%20Code-%23D97757.svg?logo=anthropic&logoColor=white">
+</a>
+</p>
+
 ### 🛜 Servidor
 
 <p>
@@ -112,17 +125,31 @@ I-am-Pablo Adrián Herrera Amieva
 
 ### 💻 Redes Sociales
 <p>
-<a href="https://github.com/search?q=user%3ADenverCoder1+twitch"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+tiktok"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+facebook"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+instagram"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"></a>
+<a href="https://www.twitch.tv/profetechmike" target="_blank">
+  <img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white">
+</a>
+<a href="https://www.tiktok.com/@profetechmike" target="_blank">
+  <img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white">
+</a>
+<a href="https://www.facebook.com/people/Profetechmike-Bigherreralab/61577086169921/" target="_blank">
+  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white">
+</a>
+<a href="https://www.instagram.com/profetechmike/" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white">
+</a>
 </p>
 
 ### 🔗 Portafolio-Web
 <p>
-<a href="https://github.com/search?q=user%3ADenverCoder1+web"><img alt="Web" src="https://img.shields.io/badge/Web-%234285F4.svg?logo=google-chrome&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+github"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"></a>
+<a href="https://pablo-profetechmike.github.io/Portafolio-web/index.html" target="_blank">
+  <img alt="Web" src="https://img.shields.io/badge/Sitio%20Web-%234285F4.svg?logo=google-chrome&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/pablo-adri%C3%A1n-herrera-amieva-a86117184/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/Pablo-ProfeTechMike" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white">
+</a>
 </p>
 
 
