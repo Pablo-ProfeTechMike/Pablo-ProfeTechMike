@@ -143,20 +143,21 @@ I-am-Pablo Adrián Herrera Amieva
   <tr>
   <td width="50%" valign="top">
 
-## Let's Work on Your Project Together!
+## ¡Trabajemos juntos en tu proyecto!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+Si tienes alguna pregunta sobre el desarrollo web front-end, no dudes en <a href="mailto:trabajoing956@outlook.com">contactarme por correo electrónico</a>.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
+Puedes contratarme como freelancer en <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> o <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> para implementar tu proyecto de aprendizaje automático en la web.
 
   </td>
   <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
+## No es perfecto, ¿verdad?
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+“Creo que es muy importante tener un sistema de retroalimentación, donde uno piense constantemente en lo que ha hecho y cómo podría mejorarlo.”
+
 – Elon Musk
 
   </td>
@@ -164,8 +165,8 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 </table>
 
 ------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
+Credits: [I-am-Pablo Adrián Herrera Amieva](https://github.com/I-am-vishalmaurya)
+Last Edited On: 20/09/2025
 
 
 
